@@ -90,7 +90,10 @@ class Solution {
             }
         }
 
-        
+        // 2️⃣ If no such index exists, reverse the array and return
+        if (idx == -1) {
+            reverse(nums, 0, l - 1);
+            return;
         }
 
         // 3️⃣ Find the smallest number greater than nums[idx] to the right
