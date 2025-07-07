@@ -75,3 +75,51 @@ class Solution {
         return triangle;
     }
 }
+//###########################################################################################################################################
+//PROBLEM2= PASCALS TRIANGLE
+class Solution {
+    public void nextPermutation(int[] nums) {
+        int l = nums.length;
+        int idx = -1;
+
+        // 1️⃣ Find the first index 'idx' from the end where nums[i] < nums[i+1]
+        for (int i = l - 2; i >= 0; i--) {
+            if (nums[i] < nums[i + 1]) {
+                idx = i;
+                break;
+            }
+        }
+
+        // 2️⃣ If no such index exists, reverse the array and return
+        if (idx == -1) {
+            reverse(nums, 0, l - 1);
+            return;
+        }
+
+        // 3️⃣ Find the smallest number greater than nums[idx] to the right
+        for (int i = l - 1; i > idx; i--) {
+            if (nums[i] > nums[idx]) {
+                // swap nums[i] and nums[idx]
+                int temp = nums[i];
+                nums[i] = nums[idx];
+                nums[idx] = temp;
+                break;
+            }
+        }
+
+        // 4️⃣ Reverse the right part after idx
+        reverse(nums, idx + 1, l - 1);
+    }
+
+    // Helper method to reverse part of the array
+    private void reverse(int[] nums, int start, int end) {
+        while (start < end) {
+            int tmp = nums[start];
+            nums[start] = nums[end];
+            nums[end] = tmp;
+            start++;
+            end--;
+        }
+    }
+}
+
