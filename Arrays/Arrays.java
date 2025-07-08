@@ -124,7 +124,9 @@ class Solution {
 //############################################################################################################################################################
 // PROBLEM:4- https://leetcode.com/problems/maximum-subarray
 
-// int l = nums.length;
+class Solution {
+    public int maxSubArray(int[] nums) {
+        // int l = nums.length;
         // int sum=0;
         // int max= Integer.MIN_VALUE;
         // for(int i=0;i<l;i++){
@@ -137,4 +139,14 @@ class Solution {
         // }
         // return max;
 
+        int maxSoFar = nums[0];  // First element is already counted
+        int currSum = nums[0];
+
+        for (int i = 1; i < nums.length; i++) {
+            currSum = Math.max(nums[i], currSum + nums[i]);
+            maxSoFar = Math.max(maxSoFar, currSum);
+        }
+        return maxSoFar;
+    }
+}
 
