@@ -76,7 +76,7 @@ class Solution {
     }
 }
 //###########################################################################################################################################
-//PROBLEM2= PASCALS TRIANGLE
+//PROBLEM3= PERMUTATION
 class Solution {
     public void nextPermutation(int[] nums) {
         int l = nums.length;
@@ -121,4 +121,20 @@ class Solution {
         }
     }
 }
+//############################################################################################################################################################
+// PROBLEM:4- https://leetcode.com/problems/maximum-subarray
+
+// int l = nums.length;
+        // int sum=0;
+        // int max= Integer.MIN_VALUE;
+        // for(int i=0;i<l;i++){
+        //     for(int j=i;j<l;j++){
+        //         sum+=nums[j];
+        //         max=Math.max(sum,max);
+        //         //System.out.println(max);
+        //     }
+        //     sum=0;
+        // }
+        // return max;
+
 
