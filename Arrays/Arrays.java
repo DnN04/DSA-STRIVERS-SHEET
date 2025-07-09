@@ -150,5 +150,24 @@ class Solution {
     }
 }
 //DAY 5
+//############################################################################################################################################################
+// PROBLEM:4- https://leetcode.com/problems/maximum-subarray
+// class Solution {
+//     public void sortColors(int[] nums) {             //triedand failed
+//         int n = nums.length;
+//         for(int i=0;i<n;i++){
+//            if(nums[i]!=nums[i+1]){
+//             int temp = nums[i+1];
+//             for(int j=i+1;j<n;j++){
+//                 if(nums[j]==nums[i]){
+//                     nums[i+1]=nums[j];
+//                     nums[j]=temp;
+//                 }
+//             }
+//            }
+//         }
+   
+//     }
+// }
 
 
