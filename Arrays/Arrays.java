@@ -223,7 +223,24 @@ class Solution {
 //         else{return maxv;}
 //     }
 // }
-
+// solved but time complexitywas o(n^2)
+// class Solution {
+//     public int maxProfit(int[] prices) {
+//         int l= prices.length;
+//         int max=Integer.MIN_VALUE; 
+//         for(int i=0;i<l-1;i++){
+//             for(int j=i+1;j<l;j++){
+//                 if(prices[j]-prices[i]>max){
+//                     max=prices[j]-prices[i];
+//                 }
+//             }
+//         }
+//         if(max<=0){
+//             return 0;
+//         }
+//         else{return max;}
+//     }
+// }
 
 
 
