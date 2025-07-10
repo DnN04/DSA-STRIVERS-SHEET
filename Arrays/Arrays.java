@@ -223,7 +223,7 @@ class Solution {
 //         else{return maxv;}
 //     }
 // }
-// solved but time complexitywas o(n^2)
+// solved but time complexitywas o(n^2) as 2 loops
 // class Solution {
 //     public int maxProfit(int[] prices) {
 //         int l= prices.length;
@@ -241,6 +241,22 @@ class Solution {
 //         else{return max;}
 //     }
 // }
+//solved using 1 loop O(N)
+class Solution {
+    public int maxProfit(int[] prices) {
+        int max=0;
+        int min=Integer.MAX_VALUE; 
+        for(int i :prices){
+            if(i<min){
+                min=i;
+            }
+            else if(i-min>max){
+                max=i-min;
+            }
+        }
+        return max;
+    }
+}
 
 
 
