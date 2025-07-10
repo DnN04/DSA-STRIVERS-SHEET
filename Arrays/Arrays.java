@@ -195,34 +195,34 @@ class Solution {
 //############################################################################################################################################################
 //DAY 6
 // PROBLEM:6- https://leetcode.com/problems/sort-colors
-class Solution {
-    public int maxProfit(int[] prices) {
-        int l= prices.length;
-        int min= prices[0];
-        int idx=0;
-        for(int i=1;i<l-1;i++){
-            if(prices[i]<=min){
-                min= prices[i];
-                idx=i;
-            }
-        }
-        //System.out.println(idx);
-        int maxv=0;
-        for(int j=idx;j<l;j++){
-            if(j==(l-1)){
-                break;
-            }
-            if((prices[j+1]-prices[idx])>maxv){
-                maxv=(prices[j+1]-prices[idx]);
-            }
-            //System.out.println(maxv);
-        }
-        if((maxv==0)||(maxv<0)){
-            return 0;
-        }
-        else{return maxv;}
-    }
-}
+// class Solution {
+//     public int maxProfit(int[] prices) {       //BUT SOME TEST CASES FAILED AS IT TAKES ONLY LEAST VALUE SOME CHANGES NEEDED
+//         int l= prices.length;
+//         int min= prices[0];
+//         int idx=0;
+//         for(int i=1;i<l-1;i++){
+//             if(prices[i]<=min){
+//                 min= prices[i];
+//                 idx=i;
+//             }
+//         }
+//         //System.out.println(idx);
+//         int maxv=0;
+//         for(int j=idx;j<l;j++){
+//             if(j==(l-1)){
+//                 break;
+//             }
+//             if((prices[j+1]-prices[idx])>maxv){
+//                 maxv=(prices[j+1]-prices[idx]);
+//             }
+//             //System.out.println(maxv);
+//         }
+//         if((maxv==0)||(maxv<0)){
+//             return 0;
+//         }
+//         else{return maxv;}
+//     }
+// }
 
 
 
