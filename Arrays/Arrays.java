@@ -151,7 +151,7 @@ class Solution {
 }
 //DAY 5
 //############################################################################################################################################################
-// PROBLEM:4- https://leetcode.com/problems/sort-colors
+// PROBLEM:5- https://leetcode.com/problems/sort-colors
 // class Solution {
 //     public void sortColors(int[] nums) {             //triedand failed
 //         int n = nums.length;
@@ -192,6 +192,12 @@ class Solution {
         }
     }
 }
+//############################################################################################################################################################
+//DAY 6
+// PROBLEM:6- https://leetcode.com/problems/sort-colors
+
+
+
 
 
 
