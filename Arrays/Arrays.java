@@ -284,7 +284,7 @@ class Solution {
 }
 //done
 
-//PROBLEM 8: https://leetcode.com/problems/rotate-image/description/
+//PROBLEM 8:https://leetcode.com/problems/merge-intervals/
 class Solution {
     public int[][] merge(int[][] intervals) {
         Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
