@@ -1,7 +1,6 @@
 struct ListNode* dummy = (struct ListNode*)malloc(sizeof(struct ListNode));
     dummy->val = 0;
     dummy->next = NULL;
-
     struct ListNode* current = dummy;
     int carry = 0;
 
