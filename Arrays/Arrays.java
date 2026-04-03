@@ -309,3 +309,36 @@ class Solution {
 //
 ////
 
+
+//////////////////////////////////////
+//Problem 9: ARRAY SORTING WITH ROATATED ARRAY
+
+class Solution {
+    public boolean check(int[] nums) {
+        int n = nums.length;
+
+        for(int k = 0; k < n; k++){
+            if(isSorted(nums, k)){
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    public boolean isSorted(int[] nums, int start){
+        int n = nums.length;
+
+        for(int i = 0; i < n - 1; i++){
+            int curr = nums[(start + i) % n];
+            int next = nums[(start + i + 1) % n];
+
+            if(curr > next){
+                return false;
+            }
+        }
+
+        return true;
+    }
+}
+//////////////////////////////////////////////////
