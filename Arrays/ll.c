@@ -22,8 +22,6 @@ struct ListNode* dummy = (struct ListNode*)malloc(sizeof(struct ListNode));
     }
 
     return dummy->next;
-
-
 ====================
     class Solution {
     public String decodeCiphertext(String encodedText, int rows) {
