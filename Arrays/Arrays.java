@@ -359,3 +359,75 @@ class Solution {
 }
 
 ///////////////////////==============
+class Solution {
+    public long maxPower(int[] stations, int r, int k) {
+        int n = stations.length;
+
+        long[] power = new long[n];
+        long windowSum = 0;
+
+        // Build initial window [0 ... r]
+        for (int i = 0; i <= r && i < n; i++) {
+            windowSum += stations[i];
+        }
+
+        for (int i = 0; i < n; i++) {
+            // Add right side
+            if (i + r < n && i + r >= 0) {
+                if (i + r > r) windowSum += stations[i + r];
+            }
+
+            power[i] = windowSum;
+
+            // Remove left side
+            if (i - r >= 0) {
+                windowSum -= stations[i - r];
+            }
+        }
+
+        long left = 0, right = (long) 1e14;
+        long ans = 0;
+
+        while (left <= right) {
+            long mid = left + (right - left) / 2;
+
+            if (canAchieve(power, r, k, mid)) {
+                ans = mid;
+                left = mid + 1;
+            } else {
+                right = mid - 1;
+            }
+        }
+
+        return ans;
+    }
+
+    private boolean canAchieve(long[] power, int r, int k, long target) {
+        int n = power.length;
+        long[] added = new long[n];
+
+        long used = 0, curr = 0;
+
+        for (int i = 0; i < n; i++) {
+            curr += added[i];
+
+            long total = power[i] + curr;
+
+            if (total < target) {
+                long need = target - total;
+                used += need;
+
+                if (used > k) return false;
+
+                curr += need;
+
+                int end = Math.min(n - 1, i + 2 * r);
+                if (end + 1 < n) {
+                    added[end + 1] -= need;
+                }
+            }
+        }
+
+        return true;
+    }
+}
