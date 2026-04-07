@@ -472,3 +472,57 @@ class Solution {
     }
 }
 //======================
+class Robot {
+
+    int width, height;
+    int x, y;
+    int dir; // 0=East, 1=North, 2=West, 3=South
+
+    int[][] directions = {
+        {1, 0},   // East
+        {0, 1},   // North
+        {-1, 0},  // West
+        {0, -1}   // South
+    };
+
+    public Robot(int width, int height) {
+        this.width = width;
+        this.height = height;
+        x = 0;
+        y = 0;
+        dir = 0;
+    }
+
+    public void step(int num) {
+        int cycle = 2 * (width + height) - 4;
+        num %= cycle;
+
+        // Special case
+        if (num == 0 && x == 0 && y == 0) {
+            dir = 3; // South
+            return;
+        }
+
+        while (num > 0) {
+            int nx = x + directions[dir][0];
+            int ny = y + directions[dir][1];
+
+            if (nx < 0 || nx >= width || ny < 0 || ny >= height) {
+                dir = (dir + 1) % 4; // turn CCW
+            } else {
+                x = nx;
+                y = ny;
+                num--;
+            }
+        }
+    }
+
+    public int[] getPos() {
+        return new int[]{x, y};
+    }
+
+    public String getDir() {
+        String[] d = {"East", "North", "West", "South"};
+        return d[dir];
+    }
+}
