@@ -1,4 +1,59 @@
+class Solution {
 
+    private int dist(int a, int b) {
+        if (a == -1 || b == -1) return 0;
+        int x1 = a / 6, y1 = a % 6;
+        int x2 = b / 6, y2 = b % 6;
+        return Math.abs(x1 - x2) + Math.abs(y1 - y2);
+    }
+
+    public int minimumDistance(String word) {
+        int n = word.length();
+        int[][] dp = new int[27][27];
+
+        for (int i = 0; i < 27; i++) {
+            for (int j = 0; j < 27; j++) {
+                dp[i][j] = Integer.MAX_VALUE;
+            }
+        }
+
+        dp[26][26] = 0;
+
+        for (int k = 0; k < n; k++) {
+            int curr = word.charAt(k) - 'A';
+            int[][] next = new int[27][27];
+
+            for (int i = 0; i < 27; i++) {
+                for (int j = 0; j < 27; j++) {
+                    next[i][j] = Integer.MAX_VALUE;
+                }
+            }
+
+            for (int i = 0; i < 27; i++) {
+                for (int j = 0; j < 27; j++) {
+                    if (dp[i][j] == Integer.MAX_VALUE) continue;
+
+                    next[curr][j] = Math.min(next[curr][j],
+                            dp[i][j] + dist(i == 26 ? -1 : i, curr));
+
+                    next[i][curr] = Math.min(next[i][curr],
+                            dp[i][j] + dist(j == 26 ? -1 : j, curr));
+                }
+            }
+
+            dp = next;
+        }
+
+        int res = Integer.MAX_VALUE;
+        for (int i = 0; i < 27; i++) {
+            for (int j = 0; j < 27; j++) {
+                res = Math.min(res, dp[i][j]);
+            }
+        }
+
+        return res;
+    }
+}
 //11.04
 import java.util.*;
 
