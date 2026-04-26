@@ -1,4 +1,62 @@
+/////nqueen
+// Online C compiler to run C program online
+#include <stdio.h>
+#include<math.h>
+#include<stdlib.h>
 
+int board[10],n;
+int isSafe(int row , int col){
+    for(int i=0; i<row ; i++){
+        int j = board[i];
+        if(j==col || abs(row-i)== abs(j-col)){
+            return 0;
+        }
+    }
+
+    return 1;
+}
+
+void printBoard(){
+    for(int i=0; i<n;i++){
+        for(int j=0;j<n;j++){
+            if(board[i]==j){
+                printf("Q ");
+            }
+            else{
+                printf(". ");
+            }
+        }
+        printf("\n");
+    }
+    printf("\n");
+}
+
+void nqueen(int row){
+    for(int j=0;j<n;j++){
+        if(isSafe(row,j)){
+            board[row]=j;
+            
+            if(row==n-1){
+                printBoard();
+            }
+            else{
+                nqueen(row+1);
+            }
+            
+        }
+    }
+}
+int main() {
+
+    printf("Enter number of queens: \n");
+    scanf("%d",&n);
+    nqueen(0);
+
+    return 0;
+}
+
+
+/////////////////
 import java.util.*;
 
 class Solution {
