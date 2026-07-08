@@ -6,21 +6,22 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | Metric | Count |
 | :--- | :--- |
-| **Total Solved** | **16** |
+| **Total Solved** | **17** |
 | 🟢 Easy | 2 |
-| 🟡 Medium | 4 |
+| 🟡 Medium | 5 |
 | 🔴 Hard | 10 |
 
 
 ## Solved by Topic
 
+- **String**: 7 problems
 - **Array**: 6 problems
-- **String**: 6 problems
 - **Dynamic Programming**: 5 problems
-- **Math**: 3 problems
+- **Math**: 4 problems
 - **Tree**: 3 problems
 - **Depth-First Search**: 3 problems
 - **Binary Tree**: 3 problems
+- **Hash Table**: 2 problems
 - **Greedy**: 2 problems
 - **Stack**: 2 problems
 - **Monotonic Stack**: 2 problems
@@ -29,7 +30,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 - **Divide and Conquer**: 1 problems
 - **Binary Search Tree**: 1 problems
 - **Matrix**: 1 problems
-- **Hash Table**: 1 problems
 - **Sliding Window**: 1 problems
 - **Simulation**: 1 problems
 - **Sorting**: 1 problems
@@ -40,6 +40,7 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | # | Problem | Difficulty | Language | Solved Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 12 | Integer to Roman | Medium | Java | 2026-07-08 | [Solution](./leetcode/Medium/Hash Tables/0012_Integer_To_Roman/solution.java) |
 | 11 | Container With Most Water | Medium | Java | 2026-07-08 | [Solution](./leetcode/Medium/Arrays/0011_Container_With_Most_Water/solution.java) |
 | 4136 | Concatenate Non-Zero Digits and Multiply by Sum II | Medium | Java | 2026-07-08 | [Solution](./leetcode/Medium/Math/4136_Concatenate_Non_Zero_Digits_And_Multiply_By_Sum_Ii/solution.java) |
 | 1285 | Balance a Binary Search Tree | Medium | Java | 2026-07-07 | [Solution](./leetcode/Medium/Divide_and_Conquer/1285_Balance_A_Binary_Search_Tree/solution.java) |
@@ -49,7 +50,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 | 110 | Balanced Binary Tree | Easy | Java | 2026-07-07 | [Solution](./leetcode/Easy/Trees/0110_Balanced_Binary_Tree/solution.java) |
 | 87 | Scramble String | Hard | Java | 2026-07-07 | [Solution](./leetcode/Hard/Strings/0087_Scramble_String/solution.java) |
 | 85 | Maximal Rectangle | Hard | Java | 2026-07-07 | [Solution](./leetcode/Hard/Arrays/0085_Maximal_Rectangle/solution.java) |
-| 4135 | Concatenate Non-Zero Digits and Multiply by Sum I | Easy | Java | 2026-07-07 | [Solution](./leetcode/Easy/Math/4135_Concatenate_Non_Zero_Digits_And_Multiply_By_Sum_I/solution.java) |
 
 ---
-*Last synchronization run: 2026-07-08 09:47:24 UTC*
+*Last synchronization run: 2026-07-08 10:09:55 UTC*
