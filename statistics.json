@@ -1,23 +1,24 @@
 {
-  "total_solved": 15,
+  "total_solved": 16,
   "difficulty_breakdown": {
     "Easy": 2,
-    "Medium": 3,
+    "Medium": 4,
     "Hard": 10
   },
   "topic_distribution": {
+    "Array": 6,
     "String": 6,
     "Dynamic Programming": 5,
-    "Array": 5,
     "Math": 3,
     "Tree": 3,
     "Depth-First Search": 3,
     "Binary Tree": 3,
+    "Greedy": 2,
     "Stack": 2,
     "Monotonic Stack": 2,
+    "Two Pointers": 1,
     "Prefix Sum": 1,
     "Divide and Conquer": 1,
-    "Greedy": 1,
     "Binary Search Tree": 1,
     "Matrix": 1,
     "Hash Table": 1,
@@ -26,8 +27,16 @@
     "Sorting": 1,
     "Recursion": 1
   },
-  "last_updated": "2026-07-08 09:47:10 UTC",
+  "last_updated": "2026-07-08 09:47:24 UTC",
   "recent_solved": [
+    {
+      "problem_id": "11",
+      "problem_title": "Container With Most Water",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-08",
+      "file_path": "leetcode/Medium/Arrays/0011_Container_With_Most_Water/solution.java"
+    },
     {
       "problem_id": "4136",
       "problem_title": "Concatenate Non-Zero Digits and Multiply by Sum II",
@@ -99,14 +108,6 @@
       "language": "java",
       "solved_at": "2026-07-07",
       "file_path": "leetcode/Easy/Math/4135_Concatenate_Non_Zero_Digits_And_Multiply_By_Sum_I/solution.java"
-    },
-    {
-      "problem_id": "84",
-      "problem_title": "Largest Rectangle in Histogram",
-      "difficulty": "Hard",
-      "language": "java",
-      "solved_at": "2026-07-06",
-      "file_path": "leetcode/Hard/Arrays/0084_Largest_Rectangle_In_Histogram/solution.java"
     }
   ]
 }
