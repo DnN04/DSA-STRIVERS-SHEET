@@ -6,26 +6,27 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | Metric | Count |
 | :--- | :--- |
-| **Total Solved** | **15** |
+| **Total Solved** | **16** |
 | 🟢 Easy | 2 |
-| 🟡 Medium | 3 |
+| 🟡 Medium | 4 |
 | 🔴 Hard | 10 |
 
 
 ## Solved by Topic
 
+- **Array**: 6 problems
 - **String**: 6 problems
 - **Dynamic Programming**: 5 problems
-- **Array**: 5 problems
 - **Math**: 3 problems
 - **Tree**: 3 problems
 - **Depth-First Search**: 3 problems
 - **Binary Tree**: 3 problems
+- **Greedy**: 2 problems
 - **Stack**: 2 problems
 - **Monotonic Stack**: 2 problems
+- **Two Pointers**: 1 problems
 - **Prefix Sum**: 1 problems
 - **Divide and Conquer**: 1 problems
-- **Greedy**: 1 problems
 - **Binary Search Tree**: 1 problems
 - **Matrix**: 1 problems
 - **Hash Table**: 1 problems
@@ -39,6 +40,7 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | # | Problem | Difficulty | Language | Solved Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 11 | Container With Most Water | Medium | Java | 2026-07-08 | [Solution](./leetcode/Medium/Arrays/0011_Container_With_Most_Water/solution.java) |
 | 4136 | Concatenate Non-Zero Digits and Multiply by Sum II | Medium | Java | 2026-07-08 | [Solution](./leetcode/Medium/Math/4136_Concatenate_Non_Zero_Digits_And_Multiply_By_Sum_Ii/solution.java) |
 | 1285 | Balance a Binary Search Tree | Medium | Java | 2026-07-07 | [Solution](./leetcode/Medium/Divide_and_Conquer/1285_Balance_A_Binary_Search_Tree/solution.java) |
 | 124 | Binary Tree Maximum Path Sum | Hard | C | 2026-07-07 | [Solution](./leetcode/Hard/Dynamic_Programming/0124_Binary_Tree_Maximum_Path_Sum/solution.c) |
@@ -48,7 +50,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 | 87 | Scramble String | Hard | Java | 2026-07-07 | [Solution](./leetcode/Hard/Strings/0087_Scramble_String/solution.java) |
 | 85 | Maximal Rectangle | Hard | Java | 2026-07-07 | [Solution](./leetcode/Hard/Arrays/0085_Maximal_Rectangle/solution.java) |
 | 4135 | Concatenate Non-Zero Digits and Multiply by Sum I | Easy | Java | 2026-07-07 | [Solution](./leetcode/Easy/Math/4135_Concatenate_Non_Zero_Digits_And_Multiply_By_Sum_I/solution.java) |
-| 84 | Largest Rectangle in Histogram | Hard | Java | 2026-07-06 | [Solution](./leetcode/Hard/Arrays/0084_Largest_Rectangle_In_Histogram/solution.java) |
 
 ---
-*Last synchronization run: 2026-07-08 09:47:10 UTC*
+*Last synchronization run: 2026-07-08 09:47:24 UTC*
