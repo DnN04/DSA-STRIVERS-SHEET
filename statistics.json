@@ -1,0 +1,112 @@
+{
+  "total_solved": 15,
+  "difficulty_breakdown": {
+    "Easy": 2,
+    "Medium": 3,
+    "Hard": 10
+  },
+  "topic_distribution": {
+    "String": 6,
+    "Dynamic Programming": 5,
+    "Array": 5,
+    "Math": 3,
+    "Tree": 3,
+    "Depth-First Search": 3,
+    "Binary Tree": 3,
+    "Stack": 2,
+    "Monotonic Stack": 2,
+    "Prefix Sum": 1,
+    "Divide and Conquer": 1,
+    "Greedy": 1,
+    "Binary Search Tree": 1,
+    "Matrix": 1,
+    "Hash Table": 1,
+    "Sliding Window": 1,
+    "Simulation": 1,
+    "Sorting": 1,
+    "Recursion": 1
+  },
+  "last_updated": "2026-07-08 09:47:10 UTC",
+  "recent_solved": [
+    {
+      "problem_id": "4136",
+      "problem_title": "Concatenate Non-Zero Digits and Multiply by Sum II",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-08",
+      "file_path": "leetcode/Medium/Math/4136_Concatenate_Non_Zero_Digits_And_Multiply_By_Sum_Ii/solution.java"
+    },
+    {
+      "problem_id": "1285",
+      "problem_title": "Balance a Binary Search Tree",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-07",
+      "file_path": "leetcode/Medium/Divide_and_Conquer/1285_Balance_A_Binary_Search_Tree/solution.java"
+    },
+    {
+      "problem_id": "124",
+      "problem_title": "Binary Tree Maximum Path Sum",
+      "difficulty": "Hard",
+      "language": "c",
+      "solved_at": "2026-07-07",
+      "file_path": "leetcode/Hard/Dynamic_Programming/0124_Binary_Tree_Maximum_Path_Sum/solution.c"
+    },
+    {
+      "problem_id": "123",
+      "problem_title": "Best Time to Buy and Sell Stock III",
+      "difficulty": "Hard",
+      "language": "java",
+      "solved_at": "2026-07-07",
+      "file_path": "leetcode/Hard/Arrays/0123_Best_Time_To_Buy_And_Sell_Stock_Iii/solution.java"
+    },
+    {
+      "problem_id": "115",
+      "problem_title": "Distinct Subsequences",
+      "difficulty": "Hard",
+      "language": "java",
+      "solved_at": "2026-07-07",
+      "file_path": "leetcode/Hard/Strings/0115_Distinct_Subsequences/solution.java"
+    },
+    {
+      "problem_id": "110",
+      "problem_title": "Balanced Binary Tree",
+      "difficulty": "Easy",
+      "language": "java",
+      "solved_at": "2026-07-07",
+      "file_path": "leetcode/Easy/Trees/0110_Balanced_Binary_Tree/solution.java"
+    },
+    {
+      "problem_id": "87",
+      "problem_title": "Scramble String",
+      "difficulty": "Hard",
+      "language": "java",
+      "solved_at": "2026-07-07",
+      "file_path": "leetcode/Hard/Strings/0087_Scramble_String/solution.java"
+    },
+    {
+      "problem_id": "85",
+      "problem_title": "Maximal Rectangle",
+      "difficulty": "Hard",
+      "language": "java",
+      "solved_at": "2026-07-07",
+      "file_path": "leetcode/Hard/Arrays/0085_Maximal_Rectangle/solution.java"
+    },
+    {
+      "problem_id": "4135",
+      "problem_title": "Concatenate Non-Zero Digits and Multiply by Sum I",
+      "difficulty": "Easy",
+      "language": "java",
+      "solved_at": "2026-07-07",
+      "file_path": "leetcode/Easy/Math/4135_Concatenate_Non_Zero_Digits_And_Multiply_By_Sum_I/solution.java"
+    },
+    {
+      "problem_id": "84",
+      "problem_title": "Largest Rectangle in Histogram",
+      "difficulty": "Hard",
+      "language": "java",
+      "solved_at": "2026-07-06",
+      "file_path": "leetcode/Hard/Arrays/0084_Largest_Rectangle_In_Histogram/solution.java"
+    }
+  ]
+}
