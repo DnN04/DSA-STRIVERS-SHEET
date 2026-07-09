@@ -1,25 +1,27 @@
 {
-  "total_solved": 22,
+  "total_solved": 25,
   "difficulty_breakdown": {
     "Easy": 2,
-    "Medium": 10,
+    "Medium": 13,
     "Hard": 10
   },
   "topic_distribution": {
     "Array": 10,
-    "String": 8,
-    "Dynamic Programming": 5,
-    "Two Pointers": 4,
+    "String": 9,
+    "Dynamic Programming": 6,
+    "Two Pointers": 5,
     "Sorting": 4,
     "Hash Table": 4,
     "Math": 4,
     "Tree": 3,
     "Depth-First Search": 3,
     "Binary Tree": 3,
+    "Linked List": 2,
+    "Recursion": 2,
+    "Backtracking": 2,
     "Greedy": 2,
     "Stack": 2,
     "Monotonic Stack": 2,
-    "Backtracking": 1,
     "Binary Search": 1,
     "Union-Find": 1,
     "Graph Theory": 1,
@@ -28,11 +30,34 @@
     "Binary Search Tree": 1,
     "Matrix": 1,
     "Sliding Window": 1,
-    "Simulation": 1,
-    "Recursion": 1
+    "Simulation": 1
   },
-  "last_updated": "2026-07-09 13:39:18 UTC",
+  "last_updated": "2026-07-09 13:49:28 UTC",
   "recent_solved": [
+    {
+      "problem_id": "24",
+      "problem_title": "Swap Nodes in Pairs",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-09",
+      "file_path": "leetcode/Medium/Linked_List/0024_Swap_Nodes_In_Pairs/solution.java"
+    },
+    {
+      "problem_id": "22",
+      "problem_title": "Generate Parentheses",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-09",
+      "file_path": "leetcode/Medium/Strings/0022_Generate_Parentheses/solution.java"
+    },
+    {
+      "problem_id": "19",
+      "problem_title": "Remove Nth Node From End of List",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-09",
+      "file_path": "leetcode/Medium/Linked_List/0019_Remove_Nth_Node_From_End_Of_List/solution.java"
+    },
     {
       "problem_id": "18",
       "problem_title": "4Sum",
@@ -88,30 +113,6 @@
       "language": "java",
       "solved_at": "2026-07-08",
       "file_path": "leetcode/Medium/Arrays/0011_Container_With_Most_Water/solution.java"
-    },
-    {
-      "problem_id": "4136",
-      "problem_title": "Concatenate Non-Zero Digits and Multiply by Sum II",
-      "difficulty": "Medium",
-      "language": "java",
-      "solved_at": "2026-07-08",
-      "file_path": "leetcode/Medium/Math/4136_Concatenate_Non_Zero_Digits_And_Multiply_By_Sum_Ii/solution.java"
-    },
-    {
-      "problem_id": "1285",
-      "problem_title": "Balance a Binary Search Tree",
-      "difficulty": "Medium",
-      "language": "java",
-      "solved_at": "2026-07-07",
-      "file_path": "leetcode/Medium/Divide_and_Conquer/1285_Balance_A_Binary_Search_Tree/solution.java"
-    },
-    {
-      "problem_id": "124",
-      "problem_title": "Binary Tree Maximum Path Sum",
-      "difficulty": "Hard",
-      "language": "c",
-      "solved_at": "2026-07-07",
-      "file_path": "leetcode/Hard/Dynamic_Programming/0124_Binary_Tree_Maximum_Path_Sum/solution.c"
     }
   ]
 }
