@@ -1,18 +1,18 @@
 {
-  "total_solved": 21,
+  "total_solved": 22,
   "difficulty_breakdown": {
     "Easy": 2,
-    "Medium": 9,
+    "Medium": 10,
     "Hard": 10
   },
   "topic_distribution": {
-    "Array": 9,
+    "Array": 10,
     "String": 8,
     "Dynamic Programming": 5,
+    "Two Pointers": 4,
+    "Sorting": 4,
     "Hash Table": 4,
     "Math": 4,
-    "Two Pointers": 3,
-    "Sorting": 3,
     "Tree": 3,
     "Depth-First Search": 3,
     "Binary Tree": 3,
@@ -31,8 +31,16 @@
     "Simulation": 1,
     "Recursion": 1
   },
-  "last_updated": "2026-07-09 13:32:34 UTC",
+  "last_updated": "2026-07-09 13:39:18 UTC",
   "recent_solved": [
+    {
+      "problem_id": "18",
+      "problem_title": "4Sum",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-09",
+      "file_path": "leetcode/Medium/Arrays/0018_4sum/solution.java"
+    },
     {
       "problem_id": "17",
       "problem_title": "Letter Combinations of a Phone Number",
@@ -104,14 +112,6 @@
       "language": "c",
       "solved_at": "2026-07-07",
       "file_path": "leetcode/Hard/Dynamic_Programming/0124_Binary_Tree_Maximum_Path_Sum/solution.c"
-    },
-    {
-      "problem_id": "123",
-      "problem_title": "Best Time to Buy and Sell Stock III",
-      "difficulty": "Hard",
-      "language": "java",
-      "solved_at": "2026-07-07",
-      "file_path": "leetcode/Hard/Arrays/0123_Best_Time_To_Buy_And_Sell_Stock_Iii/solution.java"
     }
   ]
 }
