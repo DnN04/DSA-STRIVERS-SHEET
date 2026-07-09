@@ -1,37 +1,62 @@
 {
-  "total_solved": 18,
+  "total_solved": 21,
   "difficulty_breakdown": {
     "Easy": 2,
-    "Medium": 6,
+    "Medium": 9,
     "Hard": 10
   },
   "topic_distribution": {
-    "Array": 7,
-    "String": 7,
+    "Array": 9,
+    "String": 8,
     "Dynamic Programming": 5,
+    "Hash Table": 4,
     "Math": 4,
-    "Hash Table": 3,
+    "Two Pointers": 3,
+    "Sorting": 3,
     "Tree": 3,
     "Depth-First Search": 3,
     "Binary Tree": 3,
     "Greedy": 2,
     "Stack": 2,
     "Monotonic Stack": 2,
+    "Backtracking": 1,
     "Binary Search": 1,
     "Union-Find": 1,
     "Graph Theory": 1,
-    "Two Pointers": 1,
     "Prefix Sum": 1,
     "Divide and Conquer": 1,
     "Binary Search Tree": 1,
     "Matrix": 1,
     "Sliding Window": 1,
     "Simulation": 1,
-    "Sorting": 1,
     "Recursion": 1
   },
-  "last_updated": "2026-07-09 07:08:58 UTC",
+  "last_updated": "2026-07-09 13:32:34 UTC",
   "recent_solved": [
+    {
+      "problem_id": "17",
+      "problem_title": "Letter Combinations of a Phone Number",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-09",
+      "file_path": "leetcode/Medium/Hash Tables/0017_Letter_Combinations_Of_A_Phone_Number/solution.java"
+    },
+    {
+      "problem_id": "16",
+      "problem_title": "3Sum Closest",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-09",
+      "file_path": "leetcode/Medium/Arrays/0016_3sum_Closest/solution.java"
+    },
+    {
+      "problem_id": "15",
+      "problem_title": "3Sum",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-09",
+      "file_path": "leetcode/Medium/Arrays/0015_3sum/solution.java"
+    },
     {
       "problem_id": "3838",
       "problem_title": "Path Existence Queries in a Graph I",
@@ -87,30 +112,6 @@
       "language": "java",
       "solved_at": "2026-07-07",
       "file_path": "leetcode/Hard/Arrays/0123_Best_Time_To_Buy_And_Sell_Stock_Iii/solution.java"
-    },
-    {
-      "problem_id": "115",
-      "problem_title": "Distinct Subsequences",
-      "difficulty": "Hard",
-      "language": "java",
-      "solved_at": "2026-07-07",
-      "file_path": "leetcode/Hard/Strings/0115_Distinct_Subsequences/solution.java"
-    },
-    {
-      "problem_id": "110",
-      "problem_title": "Balanced Binary Tree",
-      "difficulty": "Easy",
-      "language": "java",
-      "solved_at": "2026-07-07",
-      "file_path": "leetcode/Easy/Trees/0110_Balanced_Binary_Tree/solution.java"
-    },
-    {
-      "problem_id": "87",
-      "problem_title": "Scramble String",
-      "difficulty": "Hard",
-      "language": "java",
-      "solved_at": "2026-07-07",
-      "file_path": "leetcode/Hard/Strings/0087_Scramble_String/solution.java"
     }
   ]
 }
