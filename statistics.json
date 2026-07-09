@@ -1,22 +1,25 @@
 {
-  "total_solved": 17,
+  "total_solved": 18,
   "difficulty_breakdown": {
     "Easy": 2,
-    "Medium": 5,
+    "Medium": 6,
     "Hard": 10
   },
   "topic_distribution": {
+    "Array": 7,
     "String": 7,
-    "Array": 6,
     "Dynamic Programming": 5,
     "Math": 4,
+    "Hash Table": 3,
     "Tree": 3,
     "Depth-First Search": 3,
     "Binary Tree": 3,
-    "Hash Table": 2,
     "Greedy": 2,
     "Stack": 2,
     "Monotonic Stack": 2,
+    "Binary Search": 1,
+    "Union-Find": 1,
+    "Graph Theory": 1,
     "Two Pointers": 1,
     "Prefix Sum": 1,
     "Divide and Conquer": 1,
@@ -27,8 +30,16 @@
     "Sorting": 1,
     "Recursion": 1
   },
-  "last_updated": "2026-07-08 10:09:55 UTC",
+  "last_updated": "2026-07-09 07:08:58 UTC",
   "recent_solved": [
+    {
+      "problem_id": "3838",
+      "problem_title": "Path Existence Queries in a Graph I",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-09",
+      "file_path": "leetcode/Medium/Arrays/3838_Path_Existence_Queries_In_A_Graph_I/solution.java"
+    },
     {
       "problem_id": "12",
       "problem_title": "Integer to Roman",
@@ -100,14 +111,6 @@
       "language": "java",
       "solved_at": "2026-07-07",
       "file_path": "leetcode/Hard/Strings/0087_Scramble_String/solution.java"
-    },
-    {
-      "problem_id": "85",
-      "problem_title": "Maximal Rectangle",
-      "difficulty": "Hard",
-      "language": "java",
-      "solved_at": "2026-07-07",
-      "file_path": "leetcode/Hard/Arrays/0085_Maximal_Rectangle/solution.java"
     }
   ]
 }
