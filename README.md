@@ -6,21 +6,21 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | Metric | Count |
 | :--- | :--- |
-| **Total Solved** | **21** |
+| **Total Solved** | **22** |
 | 🟢 Easy | 2 |
-| 🟡 Medium | 9 |
+| 🟡 Medium | 10 |
 | 🔴 Hard | 10 |
 
 
 ## Solved by Topic
 
-- **Array**: 9 problems
+- **Array**: 10 problems
 - **String**: 8 problems
 - **Dynamic Programming**: 5 problems
+- **Two Pointers**: 4 problems
+- **Sorting**: 4 problems
 - **Hash Table**: 4 problems
 - **Math**: 4 problems
-- **Two Pointers**: 3 problems
-- **Sorting**: 3 problems
 - **Tree**: 3 problems
 - **Depth-First Search**: 3 problems
 - **Binary Tree**: 3 problems
@@ -44,6 +44,7 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | # | Problem | Difficulty | Language | Solved Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 18 | 4Sum | Medium | Java | 2026-07-09 | [Solution](./leetcode/Medium/Arrays/0018_4sum/solution.java) |
 | 17 | Letter Combinations of a Phone Number | Medium | Java | 2026-07-09 | [Solution](./leetcode/Medium/Hash Tables/0017_Letter_Combinations_Of_A_Phone_Number/solution.java) |
 | 16 | 3Sum Closest | Medium | Java | 2026-07-09 | [Solution](./leetcode/Medium/Arrays/0016_3sum_Closest/solution.java) |
 | 15 | 3Sum | Medium | Java | 2026-07-09 | [Solution](./leetcode/Medium/Arrays/0015_3sum/solution.java) |
@@ -53,7 +54,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 | 4136 | Concatenate Non-Zero Digits and Multiply by Sum II | Medium | Java | 2026-07-08 | [Solution](./leetcode/Medium/Math/4136_Concatenate_Non_Zero_Digits_And_Multiply_By_Sum_Ii/solution.java) |
 | 1285 | Balance a Binary Search Tree | Medium | Java | 2026-07-07 | [Solution](./leetcode/Medium/Divide_and_Conquer/1285_Balance_A_Binary_Search_Tree/solution.java) |
 | 124 | Binary Tree Maximum Path Sum | Hard | C | 2026-07-07 | [Solution](./leetcode/Hard/Dynamic_Programming/0124_Binary_Tree_Maximum_Path_Sum/solution.c) |
-| 123 | Best Time to Buy and Sell Stock III | Hard | Java | 2026-07-07 | [Solution](./leetcode/Hard/Arrays/0123_Best_Time_To_Buy_And_Sell_Stock_Iii/solution.java) |
 
 ---
-*Last synchronization run: 2026-07-09 13:32:34 UTC*
+*Last synchronization run: 2026-07-09 13:39:18 UTC*
