@@ -1,31 +1,32 @@
 {
-  "total_solved": 26,
+  "total_solved": 28,
   "difficulty_breakdown": {
     "Easy": 2,
     "Medium": 14,
-    "Hard": 10
+    "Hard": 12
   },
   "topic_distribution": {
-    "Array": 10,
-    "String": 9,
-    "Dynamic Programming": 6,
+    "Array": 11,
+    "String": 10,
+    "Dynamic Programming": 7,
+    "Two Pointers": 6,
+    "Hash Table": 5,
+    "Sorting": 5,
     "Math": 5,
-    "Two Pointers": 5,
-    "Sorting": 4,
-    "Hash Table": 4,
+    "Backtracking": 3,
+    "Greedy": 3,
     "Tree": 3,
     "Depth-First Search": 3,
     "Binary Tree": 3,
+    "Binary Search": 2,
+    "Bit Manipulation": 2,
+    "Graph Theory": 2,
     "Linked List": 2,
     "Recursion": 2,
-    "Backtracking": 2,
-    "Greedy": 2,
     "Stack": 2,
     "Monotonic Stack": 2,
-    "Bit Manipulation": 1,
-    "Binary Search": 1,
+    "Breadth-First Search": 1,
     "Union-Find": 1,
-    "Graph Theory": 1,
     "Prefix Sum": 1,
     "Divide and Conquer": 1,
     "Binary Search Tree": 1,
@@ -33,8 +34,24 @@
     "Sliding Window": 1,
     "Simulation": 1
   },
-  "last_updated": "2026-07-09 13:49:49 UTC",
+  "last_updated": "2026-07-10 08:13:04 UTC",
   "recent_solved": [
+    {
+      "problem_id": "126",
+      "problem_title": "Word Ladder II",
+      "difficulty": "Hard",
+      "language": "python3",
+      "solved_at": "2026-07-10",
+      "file_path": "leetcode/Hard/Hash Tables/0126_Word_Ladder_Ii/solution.py"
+    },
+    {
+      "problem_id": "3852",
+      "problem_title": "Path Existence Queries in a Graph II",
+      "difficulty": "Hard",
+      "language": "java",
+      "solved_at": "2026-07-10",
+      "file_path": "leetcode/Hard/Arrays/3852_Path_Existence_Queries_In_A_Graph_Ii/solution.java"
+    },
     {
       "problem_id": "29",
       "problem_title": "Divide Two Integers",
@@ -98,22 +115,6 @@
       "language": "java",
       "solved_at": "2026-07-09",
       "file_path": "leetcode/Medium/Arrays/0015_3sum/solution.java"
-    },
-    {
-      "problem_id": "3838",
-      "problem_title": "Path Existence Queries in a Graph I",
-      "difficulty": "Medium",
-      "language": "java",
-      "solved_at": "2026-07-09",
-      "file_path": "leetcode/Medium/Arrays/3838_Path_Existence_Queries_In_A_Graph_I/solution.java"
-    },
-    {
-      "problem_id": "12",
-      "problem_title": "Integer to Roman",
-      "difficulty": "Medium",
-      "language": "java",
-      "solved_at": "2026-07-08",
-      "file_path": "leetcode/Medium/Hash Tables/0012_Integer_To_Roman/solution.java"
     }
   ]
 }
