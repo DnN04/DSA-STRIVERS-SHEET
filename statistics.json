@@ -1,16 +1,16 @@
 {
-  "total_solved": 28,
+  "total_solved": 29,
   "difficulty_breakdown": {
     "Easy": 2,
     "Medium": 14,
-    "Hard": 12
+    "Hard": 13
   },
   "topic_distribution": {
+    "String": 11,
     "Array": 11,
-    "String": 10,
     "Dynamic Programming": 7,
+    "Hash Table": 6,
     "Two Pointers": 6,
-    "Hash Table": 5,
     "Sorting": 5,
     "Math": 5,
     "Backtracking": 3,
@@ -18,6 +18,7 @@
     "Tree": 3,
     "Depth-First Search": 3,
     "Binary Tree": 3,
+    "Breadth-First Search": 2,
     "Binary Search": 2,
     "Bit Manipulation": 2,
     "Graph Theory": 2,
@@ -25,7 +26,6 @@
     "Recursion": 2,
     "Stack": 2,
     "Monotonic Stack": 2,
-    "Breadth-First Search": 1,
     "Union-Find": 1,
     "Prefix Sum": 1,
     "Divide and Conquer": 1,
@@ -34,8 +34,16 @@
     "Sliding Window": 1,
     "Simulation": 1
   },
-  "last_updated": "2026-07-10 08:13:04 UTC",
+  "last_updated": "2026-07-10 08:15:02 UTC",
   "recent_solved": [
+    {
+      "problem_id": "127",
+      "problem_title": "Word Ladder",
+      "difficulty": "Hard",
+      "language": "java",
+      "solved_at": "2026-07-10",
+      "file_path": "leetcode/Hard/Hash Tables/0127_Word_Ladder/solution.java"
+    },
     {
       "problem_id": "126",
       "problem_title": "Word Ladder II",
@@ -107,14 +115,6 @@
       "language": "java",
       "solved_at": "2026-07-09",
       "file_path": "leetcode/Medium/Arrays/0016_3sum_Closest/solution.java"
-    },
-    {
-      "problem_id": "15",
-      "problem_title": "3Sum",
-      "difficulty": "Medium",
-      "language": "java",
-      "solved_at": "2026-07-09",
-      "file_path": "leetcode/Medium/Arrays/0015_3sum/solution.java"
     }
   ]
 }
