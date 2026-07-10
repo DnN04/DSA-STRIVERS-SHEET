@@ -6,34 +6,35 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | Metric | Count |
 | :--- | :--- |
-| **Total Solved** | **26** |
+| **Total Solved** | **28** |
 | 🟢 Easy | 2 |
 | 🟡 Medium | 14 |
-| 🔴 Hard | 10 |
+| 🔴 Hard | 12 |
 
 
 ## Solved by Topic
 
-- **Array**: 10 problems
-- **String**: 9 problems
-- **Dynamic Programming**: 6 problems
+- **Array**: 11 problems
+- **String**: 10 problems
+- **Dynamic Programming**: 7 problems
+- **Two Pointers**: 6 problems
+- **Hash Table**: 5 problems
+- **Sorting**: 5 problems
 - **Math**: 5 problems
-- **Two Pointers**: 5 problems
-- **Sorting**: 4 problems
-- **Hash Table**: 4 problems
+- **Backtracking**: 3 problems
+- **Greedy**: 3 problems
 - **Tree**: 3 problems
 - **Depth-First Search**: 3 problems
 - **Binary Tree**: 3 problems
+- **Binary Search**: 2 problems
+- **Bit Manipulation**: 2 problems
+- **Graph Theory**: 2 problems
 - **Linked List**: 2 problems
 - **Recursion**: 2 problems
-- **Backtracking**: 2 problems
-- **Greedy**: 2 problems
 - **Stack**: 2 problems
 - **Monotonic Stack**: 2 problems
-- **Bit Manipulation**: 1 problems
-- **Binary Search**: 1 problems
+- **Breadth-First Search**: 1 problems
 - **Union-Find**: 1 problems
-- **Graph Theory**: 1 problems
 - **Prefix Sum**: 1 problems
 - **Divide and Conquer**: 1 problems
 - **Binary Search Tree**: 1 problems
@@ -46,6 +47,8 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | # | Problem | Difficulty | Language | Solved Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 126 | Word Ladder II | Hard | Python3 | 2026-07-10 | [Solution](./leetcode/Hard/Hash Tables/0126_Word_Ladder_Ii/solution.py) |
+| 3852 | Path Existence Queries in a Graph II | Hard | Java | 2026-07-10 | [Solution](./leetcode/Hard/Arrays/3852_Path_Existence_Queries_In_A_Graph_Ii/solution.java) |
 | 29 | Divide Two Integers | Medium | Java | 2026-07-09 | [Solution](./leetcode/Medium/Math/0029_Divide_Two_Integers/solution.java) |
 | 24 | Swap Nodes in Pairs | Medium | Java | 2026-07-09 | [Solution](./leetcode/Medium/Linked_List/0024_Swap_Nodes_In_Pairs/solution.java) |
 | 22 | Generate Parentheses | Medium | Java | 2026-07-09 | [Solution](./leetcode/Medium/Strings/0022_Generate_Parentheses/solution.java) |
@@ -54,8 +57,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 | 17 | Letter Combinations of a Phone Number | Medium | Java | 2026-07-09 | [Solution](./leetcode/Medium/Hash Tables/0017_Letter_Combinations_Of_A_Phone_Number/solution.java) |
 | 16 | 3Sum Closest | Medium | Java | 2026-07-09 | [Solution](./leetcode/Medium/Arrays/0016_3sum_Closest/solution.java) |
 | 15 | 3Sum | Medium | Java | 2026-07-09 | [Solution](./leetcode/Medium/Arrays/0015_3sum/solution.java) |
-| 3838 | Path Existence Queries in a Graph I | Medium | Java | 2026-07-09 | [Solution](./leetcode/Medium/Arrays/3838_Path_Existence_Queries_In_A_Graph_I/solution.java) |
-| 12 | Integer to Roman | Medium | Java | 2026-07-08 | [Solution](./leetcode/Medium/Hash Tables/0012_Integer_To_Roman/solution.java) |
 
 ---
-*Last synchronization run: 2026-07-09 13:49:49 UTC*
+*Last synchronization run: 2026-07-10 08:13:04 UTC*
