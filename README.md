@@ -6,19 +6,19 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | Metric | Count |
 | :--- | :--- |
-| **Total Solved** | **28** |
+| **Total Solved** | **29** |
 | 🟢 Easy | 2 |
 | 🟡 Medium | 14 |
-| 🔴 Hard | 12 |
+| 🔴 Hard | 13 |
 
 
 ## Solved by Topic
 
+- **String**: 11 problems
 - **Array**: 11 problems
-- **String**: 10 problems
 - **Dynamic Programming**: 7 problems
+- **Hash Table**: 6 problems
 - **Two Pointers**: 6 problems
-- **Hash Table**: 5 problems
 - **Sorting**: 5 problems
 - **Math**: 5 problems
 - **Backtracking**: 3 problems
@@ -26,6 +26,7 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 - **Tree**: 3 problems
 - **Depth-First Search**: 3 problems
 - **Binary Tree**: 3 problems
+- **Breadth-First Search**: 2 problems
 - **Binary Search**: 2 problems
 - **Bit Manipulation**: 2 problems
 - **Graph Theory**: 2 problems
@@ -33,7 +34,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 - **Recursion**: 2 problems
 - **Stack**: 2 problems
 - **Monotonic Stack**: 2 problems
-- **Breadth-First Search**: 1 problems
 - **Union-Find**: 1 problems
 - **Prefix Sum**: 1 problems
 - **Divide and Conquer**: 1 problems
@@ -47,6 +47,7 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | # | Problem | Difficulty | Language | Solved Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 127 | Word Ladder | Hard | Java | 2026-07-10 | [Solution](./leetcode/Hard/Hash Tables/0127_Word_Ladder/solution.java) |
 | 126 | Word Ladder II | Hard | Python3 | 2026-07-10 | [Solution](./leetcode/Hard/Hash Tables/0126_Word_Ladder_Ii/solution.py) |
 | 3852 | Path Existence Queries in a Graph II | Hard | Java | 2026-07-10 | [Solution](./leetcode/Hard/Arrays/3852_Path_Existence_Queries_In_A_Graph_Ii/solution.java) |
 | 29 | Divide Two Integers | Medium | Java | 2026-07-09 | [Solution](./leetcode/Medium/Math/0029_Divide_Two_Integers/solution.java) |
@@ -56,7 +57,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 | 18 | 4Sum | Medium | Java | 2026-07-09 | [Solution](./leetcode/Medium/Arrays/0018_4sum/solution.java) |
 | 17 | Letter Combinations of a Phone Number | Medium | Java | 2026-07-09 | [Solution](./leetcode/Medium/Hash Tables/0017_Letter_Combinations_Of_A_Phone_Number/solution.java) |
 | 16 | 3Sum Closest | Medium | Java | 2026-07-09 | [Solution](./leetcode/Medium/Arrays/0016_3sum_Closest/solution.java) |
-| 15 | 3Sum | Medium | Java | 2026-07-09 | [Solution](./leetcode/Medium/Arrays/0015_3sum/solution.java) |
 
 ---
-*Last synchronization run: 2026-07-10 08:13:04 UTC*
+*Last synchronization run: 2026-07-10 08:15:02 UTC*
