@@ -1,27 +1,28 @@
 {
-  "total_solved": 30,
+  "total_solved": 32,
   "difficulty_breakdown": {
     "Easy": 2,
-    "Medium": 15,
+    "Medium": 17,
     "Hard": 13
   },
   "topic_distribution": {
+    "Array": 13,
     "String": 11,
-    "Array": 11,
+    "Hash Table": 7,
     "Dynamic Programming": 7,
-    "Hash Table": 6,
     "Two Pointers": 6,
     "Sorting": 5,
     "Math": 5,
     "Depth-First Search": 4,
+    "Binary Search": 3,
     "Breadth-First Search": 3,
     "Graph Theory": 3,
     "Backtracking": 3,
     "Greedy": 3,
     "Tree": 3,
     "Binary Tree": 3,
+    "Matrix": 2,
     "Union-Find": 2,
-    "Binary Search": 2,
     "Bit Manipulation": 2,
     "Linked List": 2,
     "Recursion": 2,
@@ -30,12 +31,27 @@
     "Prefix Sum": 1,
     "Divide and Conquer": 1,
     "Binary Search Tree": 1,
-    "Matrix": 1,
     "Sliding Window": 1,
     "Simulation": 1
   },
-  "last_updated": "2026-07-11 03:12:25 UTC",
+  "last_updated": "2026-07-11 03:14:29 UTC",
   "recent_solved": [
+    {
+      "problem_id": "36",
+      "problem_title": "Valid Sudoku",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-11",
+      "file_path": "leetcode/Medium/Arrays/0036_Valid_Sudoku/solution.java"
+    },
+    {
+      "problem_id": "34",
+      "problem_title": "Find First and Last Position of Element in Sorted Array",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-11",
+      "file_path": "leetcode/Medium/Arrays/0034_Find_First_And_Last_Position_Of_Element_In_Sorted_Array/solution.java"
+    },
     {
       "problem_id": "2793",
       "problem_title": "Count the Number of Complete Components",
@@ -99,22 +115,6 @@
       "language": "java",
       "solved_at": "2026-07-09",
       "file_path": "leetcode/Medium/Linked_List/0019_Remove_Nth_Node_From_End_Of_List/solution.java"
-    },
-    {
-      "problem_id": "18",
-      "problem_title": "4Sum",
-      "difficulty": "Medium",
-      "language": "java",
-      "solved_at": "2026-07-09",
-      "file_path": "leetcode/Medium/Arrays/0018_4sum/solution.java"
-    },
-    {
-      "problem_id": "17",
-      "problem_title": "Letter Combinations of a Phone Number",
-      "difficulty": "Medium",
-      "language": "java",
-      "solved_at": "2026-07-09",
-      "file_path": "leetcode/Medium/Hash Tables/0017_Letter_Combinations_Of_A_Phone_Number/solution.java"
     }
   ]
 }
