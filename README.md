@@ -6,30 +6,31 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | Metric | Count |
 | :--- | :--- |
-| **Total Solved** | **30** |
+| **Total Solved** | **32** |
 | 🟢 Easy | 2 |
-| 🟡 Medium | 15 |
+| 🟡 Medium | 17 |
 | 🔴 Hard | 13 |
 
 
 ## Solved by Topic
 
+- **Array**: 13 problems
 - **String**: 11 problems
-- **Array**: 11 problems
+- **Hash Table**: 7 problems
 - **Dynamic Programming**: 7 problems
-- **Hash Table**: 6 problems
 - **Two Pointers**: 6 problems
 - **Sorting**: 5 problems
 - **Math**: 5 problems
 - **Depth-First Search**: 4 problems
+- **Binary Search**: 3 problems
 - **Breadth-First Search**: 3 problems
 - **Graph Theory**: 3 problems
 - **Backtracking**: 3 problems
 - **Greedy**: 3 problems
 - **Tree**: 3 problems
 - **Binary Tree**: 3 problems
+- **Matrix**: 2 problems
 - **Union-Find**: 2 problems
-- **Binary Search**: 2 problems
 - **Bit Manipulation**: 2 problems
 - **Linked List**: 2 problems
 - **Recursion**: 2 problems
@@ -38,7 +39,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 - **Prefix Sum**: 1 problems
 - **Divide and Conquer**: 1 problems
 - **Binary Search Tree**: 1 problems
-- **Matrix**: 1 problems
 - **Sliding Window**: 1 problems
 - **Simulation**: 1 problems
 
@@ -47,6 +47,8 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | # | Problem | Difficulty | Language | Solved Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 36 | Valid Sudoku | Medium | Java | 2026-07-11 | [Solution](./leetcode/Medium/Arrays/0036_Valid_Sudoku/solution.java) |
+| 34 | Find First and Last Position of Element in Sorted Array | Medium | Java | 2026-07-11 | [Solution](./leetcode/Medium/Arrays/0034_Find_First_And_Last_Position_Of_Element_In_Sorted_Array/solution.java) |
 | 2793 | Count the Number of Complete Components | Medium | Java | 2026-07-11 | [Solution](./leetcode/Medium/Depth-First_Search/2793_Count_The_Number_Of_Complete_Components/solution.java) |
 | 127 | Word Ladder | Hard | Java | 2026-07-10 | [Solution](./leetcode/Hard/Hash Tables/0127_Word_Ladder/solution.java) |
 | 126 | Word Ladder II | Hard | Python3 | 2026-07-10 | [Solution](./leetcode/Hard/Hash Tables/0126_Word_Ladder_Ii/solution.py) |
@@ -55,8 +57,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 | 24 | Swap Nodes in Pairs | Medium | Java | 2026-07-09 | [Solution](./leetcode/Medium/Linked_List/0024_Swap_Nodes_In_Pairs/solution.java) |
 | 22 | Generate Parentheses | Medium | Java | 2026-07-09 | [Solution](./leetcode/Medium/Strings/0022_Generate_Parentheses/solution.java) |
 | 19 | Remove Nth Node From End of List | Medium | Java | 2026-07-09 | [Solution](./leetcode/Medium/Linked_List/0019_Remove_Nth_Node_From_End_Of_List/solution.java) |
-| 18 | 4Sum | Medium | Java | 2026-07-09 | [Solution](./leetcode/Medium/Arrays/0018_4sum/solution.java) |
-| 17 | Letter Combinations of a Phone Number | Medium | Java | 2026-07-09 | [Solution](./leetcode/Medium/Hash Tables/0017_Letter_Combinations_Of_A_Phone_Number/solution.java) |
 
 ---
-*Last synchronization run: 2026-07-11 03:12:25 UTC*
+*Last synchronization run: 2026-07-11 03:14:29 UTC*
