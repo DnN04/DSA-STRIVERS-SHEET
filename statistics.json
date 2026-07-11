@@ -1,19 +1,19 @@
 {
-  "total_solved": 35,
+  "total_solved": 36,
   "difficulty_breakdown": {
     "Easy": 2,
-    "Medium": 20,
+    "Medium": 21,
     "Hard": 13
   },
   "topic_distribution": {
-    "Array": 14,
+    "Array": 15,
     "String": 13,
     "Hash Table": 7,
     "Dynamic Programming": 7,
+    "Sorting": 6,
     "Math": 6,
     "Two Pointers": 6,
-    "Sorting": 5,
-    "Backtracking": 4,
+    "Backtracking": 5,
     "Depth-First Search": 4,
     "Binary Search": 3,
     "Breadth-First Search": 3,
@@ -34,8 +34,16 @@
     "Binary Search Tree": 1,
     "Sliding Window": 1
   },
-  "last_updated": "2026-07-11 03:16:08 UTC",
+  "last_updated": "2026-07-11 03:16:50 UTC",
   "recent_solved": [
+    {
+      "problem_id": "47",
+      "problem_title": "Permutations II",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-11",
+      "file_path": "leetcode/Medium/Arrays/0047_Permutations_Ii/solution.java"
+    },
     {
       "problem_id": "43",
       "problem_title": "Multiply Strings",
@@ -107,14 +115,6 @@
       "language": "java",
       "solved_at": "2026-07-10",
       "file_path": "leetcode/Hard/Arrays/3852_Path_Existence_Queries_In_A_Graph_Ii/solution.java"
-    },
-    {
-      "problem_id": "29",
-      "problem_title": "Divide Two Integers",
-      "difficulty": "Medium",
-      "language": "java",
-      "solved_at": "2026-07-09",
-      "file_path": "leetcode/Medium/Math/0029_Divide_Two_Integers/solution.java"
     }
   ]
 }
