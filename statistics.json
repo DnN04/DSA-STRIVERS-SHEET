@@ -1,26 +1,27 @@
 {
-  "total_solved": 32,
+  "total_solved": 35,
   "difficulty_breakdown": {
     "Easy": 2,
-    "Medium": 17,
+    "Medium": 20,
     "Hard": 13
   },
   "topic_distribution": {
-    "Array": 13,
-    "String": 11,
+    "Array": 14,
+    "String": 13,
     "Hash Table": 7,
     "Dynamic Programming": 7,
+    "Math": 6,
     "Two Pointers": 6,
     "Sorting": 5,
-    "Math": 5,
+    "Backtracking": 4,
     "Depth-First Search": 4,
     "Binary Search": 3,
     "Breadth-First Search": 3,
     "Graph Theory": 3,
-    "Backtracking": 3,
     "Greedy": 3,
     "Tree": 3,
     "Binary Tree": 3,
+    "Simulation": 2,
     "Matrix": 2,
     "Union-Find": 2,
     "Bit Manipulation": 2,
@@ -31,11 +32,34 @@
     "Prefix Sum": 1,
     "Divide and Conquer": 1,
     "Binary Search Tree": 1,
-    "Sliding Window": 1,
-    "Simulation": 1
+    "Sliding Window": 1
   },
-  "last_updated": "2026-07-11 03:14:29 UTC",
+  "last_updated": "2026-07-11 03:16:08 UTC",
   "recent_solved": [
+    {
+      "problem_id": "43",
+      "problem_title": "Multiply Strings",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-11",
+      "file_path": "leetcode/Medium/Math/0043_Multiply_Strings/solution.java"
+    },
+    {
+      "problem_id": "40",
+      "problem_title": "Combination Sum II",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-11",
+      "file_path": "leetcode/Medium/Arrays/0040_Combination_Sum_Ii/solution.java"
+    },
+    {
+      "problem_id": "38",
+      "problem_title": "Count and Say",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-11",
+      "file_path": "leetcode/Medium/Strings/0038_Count_And_Say/solution.java"
+    },
     {
       "problem_id": "36",
       "problem_title": "Valid Sudoku",
@@ -91,30 +115,6 @@
       "language": "java",
       "solved_at": "2026-07-09",
       "file_path": "leetcode/Medium/Math/0029_Divide_Two_Integers/solution.java"
-    },
-    {
-      "problem_id": "24",
-      "problem_title": "Swap Nodes in Pairs",
-      "difficulty": "Medium",
-      "language": "java",
-      "solved_at": "2026-07-09",
-      "file_path": "leetcode/Medium/Linked_List/0024_Swap_Nodes_In_Pairs/solution.java"
-    },
-    {
-      "problem_id": "22",
-      "problem_title": "Generate Parentheses",
-      "difficulty": "Medium",
-      "language": "java",
-      "solved_at": "2026-07-09",
-      "file_path": "leetcode/Medium/Strings/0022_Generate_Parentheses/solution.java"
-    },
-    {
-      "problem_id": "19",
-      "problem_title": "Remove Nth Node From End of List",
-      "difficulty": "Medium",
-      "language": "java",
-      "solved_at": "2026-07-09",
-      "file_path": "leetcode/Medium/Linked_List/0019_Remove_Nth_Node_From_End_Of_List/solution.java"
     }
   ]
 }
