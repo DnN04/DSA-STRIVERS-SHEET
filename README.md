@@ -6,22 +6,22 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | Metric | Count |
 | :--- | :--- |
-| **Total Solved** | **35** |
+| **Total Solved** | **36** |
 | 🟢 Easy | 2 |
-| 🟡 Medium | 20 |
+| 🟡 Medium | 21 |
 | 🔴 Hard | 13 |
 
 
 ## Solved by Topic
 
-- **Array**: 14 problems
+- **Array**: 15 problems
 - **String**: 13 problems
 - **Hash Table**: 7 problems
 - **Dynamic Programming**: 7 problems
+- **Sorting**: 6 problems
 - **Math**: 6 problems
 - **Two Pointers**: 6 problems
-- **Sorting**: 5 problems
-- **Backtracking**: 4 problems
+- **Backtracking**: 5 problems
 - **Depth-First Search**: 4 problems
 - **Binary Search**: 3 problems
 - **Breadth-First Search**: 3 problems
@@ -47,6 +47,7 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | # | Problem | Difficulty | Language | Solved Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 47 | Permutations II | Medium | Java | 2026-07-11 | [Solution](./leetcode/Medium/Arrays/0047_Permutations_Ii/solution.java) |
 | 43 | Multiply Strings | Medium | Java | 2026-07-11 | [Solution](./leetcode/Medium/Math/0043_Multiply_Strings/solution.java) |
 | 40 | Combination Sum II | Medium | Java | 2026-07-11 | [Solution](./leetcode/Medium/Arrays/0040_Combination_Sum_Ii/solution.java) |
 | 38 | Count and Say | Medium | Java | 2026-07-11 | [Solution](./leetcode/Medium/Strings/0038_Count_And_Say/solution.java) |
@@ -56,7 +57,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 | 127 | Word Ladder | Hard | Java | 2026-07-10 | [Solution](./leetcode/Hard/Hash Tables/0127_Word_Ladder/solution.java) |
 | 126 | Word Ladder II | Hard | Python3 | 2026-07-10 | [Solution](./leetcode/Hard/Hash Tables/0126_Word_Ladder_Ii/solution.py) |
 | 3852 | Path Existence Queries in a Graph II | Hard | Java | 2026-07-10 | [Solution](./leetcode/Hard/Arrays/3852_Path_Existence_Queries_In_A_Graph_Ii/solution.java) |
-| 29 | Divide Two Integers | Medium | Java | 2026-07-09 | [Solution](./leetcode/Medium/Math/0029_Divide_Two_Integers/solution.java) |
 
 ---
-*Last synchronization run: 2026-07-11 03:16:08 UTC*
+*Last synchronization run: 2026-07-11 03:16:50 UTC*
