@@ -6,17 +6,17 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | Metric | Count |
 | :--- | :--- |
-| **Total Solved** | **41** |
+| **Total Solved** | **43** |
 | 🟢 Easy | 3 |
-| 🟡 Medium | 25 |
+| 🟡 Medium | 27 |
 | 🔴 Hard | 13 |
 
 
 ## Solved by Topic
 
 - **Array**: 18 problems
-- **String**: 14 problems
-- **Dynamic Programming**: 10 problems
+- **String**: 16 problems
+- **Dynamic Programming**: 11 problems
 - **Hash Table**: 9 problems
 - **Math**: 7 problems
 - **Sorting**: 7 problems
@@ -24,6 +24,7 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 - **Backtracking**: 5 problems
 - **Matrix**: 4 problems
 - **Depth-First Search**: 4 problems
+- **Stack**: 3 problems
 - **Binary Search**: 3 problems
 - **Breadth-First Search**: 3 problems
 - **Graph Theory**: 3 problems
@@ -36,7 +37,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 - **Bit Manipulation**: 2 problems
 - **Linked List**: 2 problems
 - **Recursion**: 2 problems
-- **Stack**: 2 problems
 - **Monotonic Stack**: 2 problems
 - **Combinatorics**: 1 problems
 - **Divide and Conquer**: 1 problems
@@ -48,6 +48,8 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | # | Problem | Difficulty | Language | Solved Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 72 | Edit Distance | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Strings/0072_Edit_Distance/solution.java) |
+| 71 | Simplify Path | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Strings/0071_Simplify_Path/solution.java) |
 | 64 | Minimum Path Sum | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Arrays/0064_Minimum_Path_Sum/solution.java) |
 | 63 | Unique Paths II | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Arrays/0063_Unique_Paths_Ii/solution.java) |
 | 62 | Unique Paths | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Math/0062_Unique_Paths/solution.java) |
@@ -56,8 +58,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 | 47 | Permutations II | Medium | Java | 2026-07-11 | [Solution](./leetcode/Medium/Arrays/0047_Permutations_Ii/solution.java) |
 | 43 | Multiply Strings | Medium | Java | 2026-07-11 | [Solution](./leetcode/Medium/Math/0043_Multiply_Strings/solution.java) |
 | 40 | Combination Sum II | Medium | Java | 2026-07-11 | [Solution](./leetcode/Medium/Arrays/0040_Combination_Sum_Ii/solution.java) |
-| 38 | Count and Say | Medium | Java | 2026-07-11 | [Solution](./leetcode/Medium/Strings/0038_Count_And_Say/solution.java) |
-| 36 | Valid Sudoku | Medium | Java | 2026-07-11 | [Solution](./leetcode/Medium/Arrays/0036_Valid_Sudoku/solution.java) |
 
 ---
-*Last synchronization run: 2026-07-12 15:39:25 UTC*
+*Last synchronization run: 2026-07-12 15:41:24 UTC*
