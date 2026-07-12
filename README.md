@@ -6,26 +6,26 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | Metric | Count |
 | :--- | :--- |
-| **Total Solved** | **43** |
+| **Total Solved** | **46** |
 | 🟢 Easy | 3 |
-| 🟡 Medium | 27 |
+| 🟡 Medium | 30 |
 | 🔴 Hard | 13 |
 
 
 ## Solved by Topic
 
-- **Array**: 18 problems
+- **Array**: 20 problems
 - **String**: 16 problems
 - **Dynamic Programming**: 11 problems
 - **Hash Table**: 9 problems
+- **Two Pointers**: 7 problems
 - **Math**: 7 problems
 - **Sorting**: 7 problems
-- **Two Pointers**: 6 problems
-- **Backtracking**: 5 problems
-- **Matrix**: 4 problems
+- **Backtracking**: 6 problems
+- **Matrix**: 5 problems
+- **Binary Search**: 4 problems
 - **Depth-First Search**: 4 problems
 - **Stack**: 3 problems
-- **Binary Search**: 3 problems
 - **Breadth-First Search**: 3 problems
 - **Graph Theory**: 3 problems
 - **Greedy**: 3 problems
@@ -48,6 +48,9 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | # | Problem | Difficulty | Language | Solved Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 80 | Remove Duplicates from Sorted Array II | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Arrays/0080_Remove_Duplicates_From_Sorted_Array_Ii/solution.java) |
+| 77 | Combinations | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Backtracking/0077_Combinations/solution.java) |
+| 74 | Search a 2D Matrix | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Arrays/0074_Search_A_2d_Matrix/solution.java) |
 | 72 | Edit Distance | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Strings/0072_Edit_Distance/solution.java) |
 | 71 | Simplify Path | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Strings/0071_Simplify_Path/solution.java) |
 | 64 | Minimum Path Sum | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Arrays/0064_Minimum_Path_Sum/solution.java) |
@@ -55,9 +58,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 | 62 | Unique Paths | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Math/0062_Unique_Paths/solution.java) |
 | 4056 | Longest Balanced Substring II | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Hash Tables/4056_Longest_Balanced_Substring_Ii/solution.java) |
 | 1256 | Rank Transform of an Array | Easy | Java | 2026-07-12 | [Solution](./leetcode/Easy/Arrays/1256_Rank_Transform_Of_An_Array/solution.java) |
-| 47 | Permutations II | Medium | Java | 2026-07-11 | [Solution](./leetcode/Medium/Arrays/0047_Permutations_Ii/solution.java) |
-| 43 | Multiply Strings | Medium | Java | 2026-07-11 | [Solution](./leetcode/Medium/Math/0043_Multiply_Strings/solution.java) |
-| 40 | Combination Sum II | Medium | Java | 2026-07-11 | [Solution](./leetcode/Medium/Arrays/0040_Combination_Sum_Ii/solution.java) |
 
 ---
-*Last synchronization run: 2026-07-12 15:41:24 UTC*
+*Last synchronization run: 2026-07-12 15:42:50 UTC*
