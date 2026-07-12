@@ -1,23 +1,23 @@
 {
-  "total_solved": 43,
+  "total_solved": 46,
   "difficulty_breakdown": {
     "Easy": 3,
-    "Medium": 27,
+    "Medium": 30,
     "Hard": 13
   },
   "topic_distribution": {
-    "Array": 18,
+    "Array": 20,
     "String": 16,
     "Dynamic Programming": 11,
     "Hash Table": 9,
+    "Two Pointers": 7,
     "Math": 7,
     "Sorting": 7,
-    "Two Pointers": 6,
-    "Backtracking": 5,
-    "Matrix": 4,
+    "Backtracking": 6,
+    "Matrix": 5,
+    "Binary Search": 4,
     "Depth-First Search": 4,
     "Stack": 3,
-    "Binary Search": 3,
     "Breadth-First Search": 3,
     "Graph Theory": 3,
     "Greedy": 3,
@@ -35,8 +35,32 @@
     "Binary Search Tree": 1,
     "Sliding Window": 1
   },
-  "last_updated": "2026-07-12 15:41:24 UTC",
+  "last_updated": "2026-07-12 15:42:50 UTC",
   "recent_solved": [
+    {
+      "problem_id": "80",
+      "problem_title": "Remove Duplicates from Sorted Array II",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-12",
+      "file_path": "leetcode/Medium/Arrays/0080_Remove_Duplicates_From_Sorted_Array_Ii/solution.java"
+    },
+    {
+      "problem_id": "77",
+      "problem_title": "Combinations",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-12",
+      "file_path": "leetcode/Medium/Backtracking/0077_Combinations/solution.java"
+    },
+    {
+      "problem_id": "74",
+      "problem_title": "Search a 2D Matrix",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-12",
+      "file_path": "leetcode/Medium/Arrays/0074_Search_A_2d_Matrix/solution.java"
+    },
     {
       "problem_id": "72",
       "problem_title": "Edit Distance",
@@ -92,30 +116,6 @@
       "language": "java",
       "solved_at": "2026-07-12",
       "file_path": "leetcode/Easy/Arrays/1256_Rank_Transform_Of_An_Array/solution.java"
-    },
-    {
-      "problem_id": "47",
-      "problem_title": "Permutations II",
-      "difficulty": "Medium",
-      "language": "java",
-      "solved_at": "2026-07-11",
-      "file_path": "leetcode/Medium/Arrays/0047_Permutations_Ii/solution.java"
-    },
-    {
-      "problem_id": "43",
-      "problem_title": "Multiply Strings",
-      "difficulty": "Medium",
-      "language": "java",
-      "solved_at": "2026-07-11",
-      "file_path": "leetcode/Medium/Math/0043_Multiply_Strings/solution.java"
-    },
-    {
-      "problem_id": "40",
-      "problem_title": "Combination Sum II",
-      "difficulty": "Medium",
-      "language": "java",
-      "solved_at": "2026-07-11",
-      "file_path": "leetcode/Medium/Arrays/0040_Combination_Sum_Ii/solution.java"
     }
   ]
 }
