@@ -1,16 +1,16 @@
 {
-  "total_solved": 36,
+  "total_solved": 38,
   "difficulty_breakdown": {
-    "Easy": 2,
-    "Medium": 21,
+    "Easy": 3,
+    "Medium": 22,
     "Hard": 13
   },
   "topic_distribution": {
-    "Array": 15,
-    "String": 13,
-    "Hash Table": 7,
+    "Array": 16,
+    "String": 14,
+    "Hash Table": 9,
+    "Sorting": 7,
     "Dynamic Programming": 7,
-    "Sorting": 6,
     "Math": 6,
     "Two Pointers": 6,
     "Backtracking": 5,
@@ -21,6 +21,7 @@
     "Greedy": 3,
     "Tree": 3,
     "Binary Tree": 3,
+    "Prefix Sum": 2,
     "Simulation": 2,
     "Matrix": 2,
     "Union-Find": 2,
@@ -29,13 +30,28 @@
     "Recursion": 2,
     "Stack": 2,
     "Monotonic Stack": 2,
-    "Prefix Sum": 1,
     "Divide and Conquer": 1,
     "Binary Search Tree": 1,
     "Sliding Window": 1
   },
-  "last_updated": "2026-07-11 03:16:50 UTC",
+  "last_updated": "2026-07-12 03:21:13 UTC",
   "recent_solved": [
+    {
+      "problem_id": "4056",
+      "problem_title": "Longest Balanced Substring II",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-12",
+      "file_path": "leetcode/Medium/Hash Tables/4056_Longest_Balanced_Substring_Ii/solution.java"
+    },
+    {
+      "problem_id": "1256",
+      "problem_title": "Rank Transform of an Array",
+      "difficulty": "Easy",
+      "language": "java",
+      "solved_at": "2026-07-12",
+      "file_path": "leetcode/Easy/Arrays/1256_Rank_Transform_Of_An_Array/solution.java"
+    },
     {
       "problem_id": "47",
       "problem_title": "Permutations II",
@@ -99,22 +115,6 @@
       "language": "java",
       "solved_at": "2026-07-10",
       "file_path": "leetcode/Hard/Hash Tables/0127_Word_Ladder/solution.java"
-    },
-    {
-      "problem_id": "126",
-      "problem_title": "Word Ladder II",
-      "difficulty": "Hard",
-      "language": "python3",
-      "solved_at": "2026-07-10",
-      "file_path": "leetcode/Hard/Hash Tables/0126_Word_Ladder_Ii/solution.py"
-    },
-    {
-      "problem_id": "3852",
-      "problem_title": "Path Existence Queries in a Graph II",
-      "difficulty": "Hard",
-      "language": "java",
-      "solved_at": "2026-07-10",
-      "file_path": "leetcode/Hard/Arrays/3852_Path_Existence_Queries_In_A_Graph_Ii/solution.java"
     }
   ]
 }
