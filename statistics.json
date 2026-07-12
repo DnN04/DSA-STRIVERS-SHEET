@@ -1,14 +1,14 @@
 {
-  "total_solved": 41,
+  "total_solved": 43,
   "difficulty_breakdown": {
     "Easy": 3,
-    "Medium": 25,
+    "Medium": 27,
     "Hard": 13
   },
   "topic_distribution": {
     "Array": 18,
-    "String": 14,
-    "Dynamic Programming": 10,
+    "String": 16,
+    "Dynamic Programming": 11,
     "Hash Table": 9,
     "Math": 7,
     "Sorting": 7,
@@ -16,6 +16,7 @@
     "Backtracking": 5,
     "Matrix": 4,
     "Depth-First Search": 4,
+    "Stack": 3,
     "Binary Search": 3,
     "Breadth-First Search": 3,
     "Graph Theory": 3,
@@ -28,15 +29,30 @@
     "Bit Manipulation": 2,
     "Linked List": 2,
     "Recursion": 2,
-    "Stack": 2,
     "Monotonic Stack": 2,
     "Combinatorics": 1,
     "Divide and Conquer": 1,
     "Binary Search Tree": 1,
     "Sliding Window": 1
   },
-  "last_updated": "2026-07-12 15:39:25 UTC",
+  "last_updated": "2026-07-12 15:41:24 UTC",
   "recent_solved": [
+    {
+      "problem_id": "72",
+      "problem_title": "Edit Distance",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-12",
+      "file_path": "leetcode/Medium/Strings/0072_Edit_Distance/solution.java"
+    },
+    {
+      "problem_id": "71",
+      "problem_title": "Simplify Path",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-12",
+      "file_path": "leetcode/Medium/Strings/0071_Simplify_Path/solution.java"
+    },
     {
       "problem_id": "64",
       "problem_title": "Minimum Path Sum",
@@ -100,22 +116,6 @@
       "language": "java",
       "solved_at": "2026-07-11",
       "file_path": "leetcode/Medium/Arrays/0040_Combination_Sum_Ii/solution.java"
-    },
-    {
-      "problem_id": "38",
-      "problem_title": "Count and Say",
-      "difficulty": "Medium",
-      "language": "java",
-      "solved_at": "2026-07-11",
-      "file_path": "leetcode/Medium/Strings/0038_Count_And_Say/solution.java"
-    },
-    {
-      "problem_id": "36",
-      "problem_title": "Valid Sudoku",
-      "difficulty": "Medium",
-      "language": "java",
-      "solved_at": "2026-07-11",
-      "file_path": "leetcode/Medium/Arrays/0036_Valid_Sudoku/solution.java"
     }
   ]
 }
