@@ -6,19 +6,19 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | Metric | Count |
 | :--- | :--- |
-| **Total Solved** | **36** |
-| 🟢 Easy | 2 |
-| 🟡 Medium | 21 |
+| **Total Solved** | **38** |
+| 🟢 Easy | 3 |
+| 🟡 Medium | 22 |
 | 🔴 Hard | 13 |
 
 
 ## Solved by Topic
 
-- **Array**: 15 problems
-- **String**: 13 problems
-- **Hash Table**: 7 problems
+- **Array**: 16 problems
+- **String**: 14 problems
+- **Hash Table**: 9 problems
+- **Sorting**: 7 problems
 - **Dynamic Programming**: 7 problems
-- **Sorting**: 6 problems
 - **Math**: 6 problems
 - **Two Pointers**: 6 problems
 - **Backtracking**: 5 problems
@@ -29,6 +29,7 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 - **Greedy**: 3 problems
 - **Tree**: 3 problems
 - **Binary Tree**: 3 problems
+- **Prefix Sum**: 2 problems
 - **Simulation**: 2 problems
 - **Matrix**: 2 problems
 - **Union-Find**: 2 problems
@@ -37,7 +38,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 - **Recursion**: 2 problems
 - **Stack**: 2 problems
 - **Monotonic Stack**: 2 problems
-- **Prefix Sum**: 1 problems
 - **Divide and Conquer**: 1 problems
 - **Binary Search Tree**: 1 problems
 - **Sliding Window**: 1 problems
@@ -47,6 +47,8 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | # | Problem | Difficulty | Language | Solved Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 4056 | Longest Balanced Substring II | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Hash Tables/4056_Longest_Balanced_Substring_Ii/solution.java) |
+| 1256 | Rank Transform of an Array | Easy | Java | 2026-07-12 | [Solution](./leetcode/Easy/Arrays/1256_Rank_Transform_Of_An_Array/solution.java) |
 | 47 | Permutations II | Medium | Java | 2026-07-11 | [Solution](./leetcode/Medium/Arrays/0047_Permutations_Ii/solution.java) |
 | 43 | Multiply Strings | Medium | Java | 2026-07-11 | [Solution](./leetcode/Medium/Math/0043_Multiply_Strings/solution.java) |
 | 40 | Combination Sum II | Medium | Java | 2026-07-11 | [Solution](./leetcode/Medium/Arrays/0040_Combination_Sum_Ii/solution.java) |
@@ -55,8 +57,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 | 34 | Find First and Last Position of Element in Sorted Array | Medium | Java | 2026-07-11 | [Solution](./leetcode/Medium/Arrays/0034_Find_First_And_Last_Position_Of_Element_In_Sorted_Array/solution.java) |
 | 2793 | Count the Number of Complete Components | Medium | Java | 2026-07-11 | [Solution](./leetcode/Medium/Depth-First_Search/2793_Count_The_Number_Of_Complete_Components/solution.java) |
 | 127 | Word Ladder | Hard | Java | 2026-07-10 | [Solution](./leetcode/Hard/Hash Tables/0127_Word_Ladder/solution.java) |
-| 126 | Word Ladder II | Hard | Python3 | 2026-07-10 | [Solution](./leetcode/Hard/Hash Tables/0126_Word_Ladder_Ii/solution.py) |
-| 3852 | Path Existence Queries in a Graph II | Hard | Java | 2026-07-10 | [Solution](./leetcode/Hard/Arrays/3852_Path_Existence_Queries_In_A_Graph_Ii/solution.java) |
 
 ---
-*Last synchronization run: 2026-07-11 03:16:50 UTC*
+*Last synchronization run: 2026-07-12 03:21:13 UTC*
