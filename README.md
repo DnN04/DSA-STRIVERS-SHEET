@@ -6,17 +6,17 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | Metric | Count |
 | :--- | :--- |
-| **Total Solved** | **50** |
+| **Total Solved** | **51** |
 | 🟢 Easy | 3 |
 | 🟡 Medium | 31 |
-| 🔴 Hard | 16 |
+| 🔴 Hard | 17 |
 
 
 ## Solved by Topic
 
-- **Array**: 22 problems
+- **Array**: 23 problems
 - **String**: 16 problems
-- **Dynamic Programming**: 13 problems
+- **Dynamic Programming**: 14 problems
 - **Hash Table**: 9 problems
 - **Math**: 8 problems
 - **Two Pointers**: 7 problems
@@ -51,6 +51,7 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | # | Problem | Difficulty | Language | Solved Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 188 | Best Time to Buy and Sell Stock IV | Hard | Java | 2026-07-14 | [Solution](./leetcode/Hard/Arrays/0188_Best_Time_To_Buy_And_Sell_Stock_Iv/solution.java) |
 | 185 | Department Top Three Salaries | Hard | Mysql | 2026-07-14 | [Solution](./leetcode/Hard/Database/0185_Department_Top_Three_Salaries/solution.txt) |
 | 174 | Dungeon Game | Hard | Python | 2026-07-14 | [Solution](./leetcode/Hard/Arrays/0174_Dungeon_Game/solution.py) |
 | 3608 | Find the Number of Subsequences With Equal GCD | Hard | Java | 2026-07-14 | [Solution](./leetcode/Hard/Arrays/3608_Find_The_Number_Of_Subsequences_With_Equal_Gcd/solution.java) |
@@ -60,7 +61,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 | 74 | Search a 2D Matrix | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Arrays/0074_Search_A_2d_Matrix/solution.java) |
 | 72 | Edit Distance | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Strings/0072_Edit_Distance/solution.java) |
 | 71 | Simplify Path | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Strings/0071_Simplify_Path/solution.java) |
-| 64 | Minimum Path Sum | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Arrays/0064_Minimum_Path_Sum/solution.java) |
 
 ---
-*Last synchronization run: 2026-07-14 12:40:18 UTC*
+*Last synchronization run: 2026-07-14 12:41:24 UTC*
