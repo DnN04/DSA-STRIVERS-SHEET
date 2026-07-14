@@ -6,9 +6,9 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | Metric | Count |
 | :--- | :--- |
-| **Total Solved** | **46** |
+| **Total Solved** | **47** |
 | 🟢 Easy | 3 |
-| 🟡 Medium | 30 |
+| 🟡 Medium | 31 |
 | 🔴 Hard | 13 |
 
 
@@ -38,6 +38,7 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 - **Linked List**: 2 problems
 - **Recursion**: 2 problems
 - **Monotonic Stack**: 2 problems
+- **Enumeration**: 1 problems
 - **Combinatorics**: 1 problems
 - **Divide and Conquer**: 1 problems
 - **Binary Search Tree**: 1 problems
@@ -48,6 +49,7 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | # | Problem | Difficulty | Language | Solved Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1212 | Sequential Digits | Medium | Java | 2026-07-13 | [Solution](./leetcode/Medium/Enumeration/1212_Sequential_Digits/solution.java) |
 | 80 | Remove Duplicates from Sorted Array II | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Arrays/0080_Remove_Duplicates_From_Sorted_Array_Ii/solution.java) |
 | 77 | Combinations | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Backtracking/0077_Combinations/solution.java) |
 | 74 | Search a 2D Matrix | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Arrays/0074_Search_A_2d_Matrix/solution.java) |
@@ -57,7 +59,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 | 63 | Unique Paths II | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Arrays/0063_Unique_Paths_Ii/solution.java) |
 | 62 | Unique Paths | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Math/0062_Unique_Paths/solution.java) |
 | 4056 | Longest Balanced Substring II | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Hash Tables/4056_Longest_Balanced_Substring_Ii/solution.java) |
-| 1256 | Rank Transform of an Array | Easy | Java | 2026-07-12 | [Solution](./leetcode/Easy/Arrays/1256_Rank_Transform_Of_An_Array/solution.java) |
 
 ---
-*Last synchronization run: 2026-07-12 15:42:50 UTC*
+*Last synchronization run: 2026-07-14 12:36:31 UTC*
