@@ -1,24 +1,24 @@
 {
-  "total_solved": 56,
+  "total_solved": 57,
   "difficulty_breakdown": {
     "Easy": 3,
     "Medium": 31,
-    "Hard": 22
+    "Hard": 23
   },
   "topic_distribution": {
     "Array": 26,
     "String": 19,
-    "Dynamic Programming": 14,
-    "Math": 9,
+    "Dynamic Programming": 15,
+    "Math": 10,
     "Sorting": 9,
     "Hash Table": 9,
     "Backtracking": 7,
     "Matrix": 7,
     "Two Pointers": 7,
+    "Recursion": 4,
     "Stack": 4,
     "Binary Search": 4,
     "Depth-First Search": 4,
-    "Recursion": 3,
     "Breadth-First Search": 3,
     "Graph Theory": 3,
     "Greedy": 3,
@@ -48,8 +48,16 @@
     "Combinatorics": 1,
     "Binary Search Tree": 1
   },
-  "last_updated": "2026-07-14 13:01:27 UTC",
+  "last_updated": "2026-07-14 13:02:53 UTC",
   "recent_solved": [
+    {
+      "problem_id": "233",
+      "problem_title": "Number of Digit One",
+      "difficulty": "Hard",
+      "language": "java",
+      "solved_at": "2026-07-14",
+      "file_path": "leetcode/Hard/Math/0233_Number_Of_Digit_One/solution.java"
+    },
     {
       "problem_id": "224",
       "problem_title": "Basic Calculator",
@@ -121,14 +129,6 @@
       "language": "java",
       "solved_at": "2026-07-14",
       "file_path": "leetcode/Hard/Arrays/3608_Find_The_Number_Of_Subsequences_With_Equal_Gcd/solution.java"
-    },
-    {
-      "problem_id": "1212",
-      "problem_title": "Sequential Digits",
-      "difficulty": "Medium",
-      "language": "java",
-      "solved_at": "2026-07-13",
-      "file_path": "leetcode/Medium/Enumeration/1212_Sequential_Digits/solution.java"
     }
   ]
 }
