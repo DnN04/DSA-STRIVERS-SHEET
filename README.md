@@ -6,26 +6,27 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | Metric | Count |
 | :--- | :--- |
-| **Total Solved** | **55** |
+| **Total Solved** | **56** |
 | 🟢 Easy | 3 |
 | 🟡 Medium | 31 |
-| 🔴 Hard | 21 |
+| 🔴 Hard | 22 |
 
 
 ## Solved by Topic
 
 - **Array**: 26 problems
-- **String**: 18 problems
+- **String**: 19 problems
 - **Dynamic Programming**: 14 problems
+- **Math**: 9 problems
 - **Sorting**: 9 problems
 - **Hash Table**: 9 problems
-- **Math**: 8 problems
 - **Backtracking**: 7 problems
 - **Matrix**: 7 problems
 - **Two Pointers**: 7 problems
+- **Stack**: 4 problems
 - **Binary Search**: 4 problems
 - **Depth-First Search**: 4 problems
-- **Stack**: 3 problems
+- **Recursion**: 3 problems
 - **Breadth-First Search**: 3 problems
 - **Graph Theory**: 3 problems
 - **Greedy**: 3 problems
@@ -39,7 +40,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 - **Union-Find**: 2 problems
 - **Bit Manipulation**: 2 problems
 - **Linked List**: 2 problems
-- **Recursion**: 2 problems
 - **Monotonic Stack**: 2 problems
 - **Bucket Sort**: 1 problems
 - **Binary Indexed Tree**: 1 problems
@@ -61,6 +61,7 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | # | Problem | Difficulty | Language | Solved Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 224 | Basic Calculator | Hard | Java | 2026-07-14 | [Solution](./leetcode/Hard/Math/0224_Basic_Calculator/solution.java) |
 | 220 | Contains Duplicate III | Hard | Java | 2026-07-14 | [Solution](./leetcode/Hard/Arrays/0220_Contains_Duplicate_Iii/solution.java) |
 | 218 | The Skyline Problem | Hard | Java | 2026-07-14 | [Solution](./leetcode/Hard/Arrays/0218_The_Skyline_Problem/solution.java) |
 | 214 | Shortest Palindrome | Hard | Java | 2026-07-14 | [Solution](./leetcode/Hard/Strings/0214_Shortest_Palindrome/solution.java) |
@@ -70,7 +71,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 | 174 | Dungeon Game | Hard | Python | 2026-07-14 | [Solution](./leetcode/Hard/Arrays/0174_Dungeon_Game/solution.py) |
 | 3608 | Find the Number of Subsequences With Equal GCD | Hard | Java | 2026-07-14 | [Solution](./leetcode/Hard/Arrays/3608_Find_The_Number_Of_Subsequences_With_Equal_Gcd/solution.java) |
 | 1212 | Sequential Digits | Medium | Java | 2026-07-13 | [Solution](./leetcode/Medium/Enumeration/1212_Sequential_Digits/solution.java) |
-| 80 | Remove Duplicates from Sorted Array II | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Arrays/0080_Remove_Duplicates_From_Sorted_Array_Ii/solution.java) |
 
 ---
-*Last synchronization run: 2026-07-14 12:45:37 UTC*
+*Last synchronization run: 2026-07-14 13:01:27 UTC*
