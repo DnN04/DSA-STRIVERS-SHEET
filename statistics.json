@@ -1,8 +1,8 @@
 {
-  "total_solved": 46,
+  "total_solved": 47,
   "difficulty_breakdown": {
     "Easy": 3,
-    "Medium": 30,
+    "Medium": 31,
     "Hard": 13
   },
   "topic_distribution": {
@@ -30,13 +30,22 @@
     "Linked List": 2,
     "Recursion": 2,
     "Monotonic Stack": 2,
+    "Enumeration": 1,
     "Combinatorics": 1,
     "Divide and Conquer": 1,
     "Binary Search Tree": 1,
     "Sliding Window": 1
   },
-  "last_updated": "2026-07-12 15:42:50 UTC",
+  "last_updated": "2026-07-14 12:36:31 UTC",
   "recent_solved": [
+    {
+      "problem_id": "1212",
+      "problem_title": "Sequential Digits",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-13",
+      "file_path": "leetcode/Medium/Enumeration/1212_Sequential_Digits/solution.java"
+    },
     {
       "problem_id": "80",
       "problem_title": "Remove Duplicates from Sorted Array II",
@@ -108,14 +117,6 @@
       "language": "java",
       "solved_at": "2026-07-12",
       "file_path": "leetcode/Medium/Hash Tables/4056_Longest_Balanced_Substring_Ii/solution.java"
-    },
-    {
-      "problem_id": "1256",
-      "problem_title": "Rank Transform of an Array",
-      "difficulty": "Easy",
-      "language": "java",
-      "solved_at": "2026-07-12",
-      "file_path": "leetcode/Easy/Arrays/1256_Rank_Transform_Of_An_Array/solution.java"
     }
   ]
 }
