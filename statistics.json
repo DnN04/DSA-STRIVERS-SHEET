@@ -1,14 +1,14 @@
 {
-  "total_solved": 50,
+  "total_solved": 51,
   "difficulty_breakdown": {
     "Easy": 3,
     "Medium": 31,
-    "Hard": 16
+    "Hard": 17
   },
   "topic_distribution": {
-    "Array": 22,
+    "Array": 23,
     "String": 16,
-    "Dynamic Programming": 13,
+    "Dynamic Programming": 14,
     "Hash Table": 9,
     "Math": 8,
     "Two Pointers": 7,
@@ -38,8 +38,16 @@
     "Binary Search Tree": 1,
     "Sliding Window": 1
   },
-  "last_updated": "2026-07-14 12:40:18 UTC",
+  "last_updated": "2026-07-14 12:41:24 UTC",
   "recent_solved": [
+    {
+      "problem_id": "188",
+      "problem_title": "Best Time to Buy and Sell Stock IV",
+      "difficulty": "Hard",
+      "language": "java",
+      "solved_at": "2026-07-14",
+      "file_path": "leetcode/Hard/Arrays/0188_Best_Time_To_Buy_And_Sell_Stock_Iv/solution.java"
+    },
     {
       "problem_id": "185",
       "problem_title": "Department Top Three Salaries",
@@ -111,14 +119,6 @@
       "language": "java",
       "solved_at": "2026-07-12",
       "file_path": "leetcode/Medium/Strings/0071_Simplify_Path/solution.java"
-    },
-    {
-      "problem_id": "64",
-      "problem_title": "Minimum Path Sum",
-      "difficulty": "Medium",
-      "language": "java",
-      "solved_at": "2026-07-12",
-      "file_path": "leetcode/Medium/Arrays/0064_Minimum_Path_Sum/solution.java"
     }
   ]
 }
