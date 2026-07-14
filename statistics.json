@@ -1,23 +1,24 @@
 {
-  "total_solved": 55,
+  "total_solved": 56,
   "difficulty_breakdown": {
     "Easy": 3,
     "Medium": 31,
-    "Hard": 21
+    "Hard": 22
   },
   "topic_distribution": {
     "Array": 26,
-    "String": 18,
+    "String": 19,
     "Dynamic Programming": 14,
+    "Math": 9,
     "Sorting": 9,
     "Hash Table": 9,
-    "Math": 8,
     "Backtracking": 7,
     "Matrix": 7,
     "Two Pointers": 7,
+    "Stack": 4,
     "Binary Search": 4,
     "Depth-First Search": 4,
-    "Stack": 3,
+    "Recursion": 3,
     "Breadth-First Search": 3,
     "Graph Theory": 3,
     "Greedy": 3,
@@ -31,7 +32,6 @@
     "Union-Find": 2,
     "Bit Manipulation": 2,
     "Linked List": 2,
-    "Recursion": 2,
     "Monotonic Stack": 2,
     "Bucket Sort": 1,
     "Binary Indexed Tree": 1,
@@ -48,8 +48,16 @@
     "Combinatorics": 1,
     "Binary Search Tree": 1
   },
-  "last_updated": "2026-07-14 12:45:37 UTC",
+  "last_updated": "2026-07-14 13:01:27 UTC",
   "recent_solved": [
+    {
+      "problem_id": "224",
+      "problem_title": "Basic Calculator",
+      "difficulty": "Hard",
+      "language": "java",
+      "solved_at": "2026-07-14",
+      "file_path": "leetcode/Hard/Math/0224_Basic_Calculator/solution.java"
+    },
     {
       "problem_id": "220",
       "problem_title": "Contains Duplicate III",
@@ -121,14 +129,6 @@
       "language": "java",
       "solved_at": "2026-07-13",
       "file_path": "leetcode/Medium/Enumeration/1212_Sequential_Digits/solution.java"
-    },
-    {
-      "problem_id": "80",
-      "problem_title": "Remove Duplicates from Sorted Array II",
-      "difficulty": "Medium",
-      "language": "java",
-      "solved_at": "2026-07-12",
-      "file_path": "leetcode/Medium/Arrays/0080_Remove_Duplicates_From_Sorted_Array_Ii/solution.java"
     }
   ]
 }
