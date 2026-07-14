@@ -1,20 +1,20 @@
 {
-  "total_solved": 47,
+  "total_solved": 50,
   "difficulty_breakdown": {
     "Easy": 3,
     "Medium": 31,
-    "Hard": 13
+    "Hard": 16
   },
   "topic_distribution": {
-    "Array": 20,
+    "Array": 22,
     "String": 16,
-    "Dynamic Programming": 11,
+    "Dynamic Programming": 13,
     "Hash Table": 9,
+    "Math": 8,
     "Two Pointers": 7,
-    "Math": 7,
     "Sorting": 7,
+    "Matrix": 6,
     "Backtracking": 6,
-    "Matrix": 5,
     "Binary Search": 4,
     "Depth-First Search": 4,
     "Stack": 3,
@@ -30,14 +30,40 @@
     "Linked List": 2,
     "Recursion": 2,
     "Monotonic Stack": 2,
+    "Database": 1,
+    "Number Theory": 1,
     "Enumeration": 1,
     "Combinatorics": 1,
     "Divide and Conquer": 1,
     "Binary Search Tree": 1,
     "Sliding Window": 1
   },
-  "last_updated": "2026-07-14 12:36:31 UTC",
+  "last_updated": "2026-07-14 12:40:18 UTC",
   "recent_solved": [
+    {
+      "problem_id": "185",
+      "problem_title": "Department Top Three Salaries",
+      "difficulty": "Hard",
+      "language": "mysql",
+      "solved_at": "2026-07-14",
+      "file_path": "leetcode/Hard/Database/0185_Department_Top_Three_Salaries/solution.txt"
+    },
+    {
+      "problem_id": "174",
+      "problem_title": "Dungeon Game",
+      "difficulty": "Hard",
+      "language": "python",
+      "solved_at": "2026-07-14",
+      "file_path": "leetcode/Hard/Arrays/0174_Dungeon_Game/solution.py"
+    },
+    {
+      "problem_id": "3608",
+      "problem_title": "Find the Number of Subsequences With Equal GCD",
+      "difficulty": "Hard",
+      "language": "java",
+      "solved_at": "2026-07-14",
+      "file_path": "leetcode/Hard/Arrays/3608_Find_The_Number_Of_Subsequences_With_Equal_Gcd/solution.java"
+    },
     {
       "problem_id": "1212",
       "problem_title": "Sequential Digits",
@@ -93,30 +119,6 @@
       "language": "java",
       "solved_at": "2026-07-12",
       "file_path": "leetcode/Medium/Arrays/0064_Minimum_Path_Sum/solution.java"
-    },
-    {
-      "problem_id": "63",
-      "problem_title": "Unique Paths II",
-      "difficulty": "Medium",
-      "language": "java",
-      "solved_at": "2026-07-12",
-      "file_path": "leetcode/Medium/Arrays/0063_Unique_Paths_Ii/solution.java"
-    },
-    {
-      "problem_id": "62",
-      "problem_title": "Unique Paths",
-      "difficulty": "Medium",
-      "language": "java",
-      "solved_at": "2026-07-12",
-      "file_path": "leetcode/Medium/Math/0062_Unique_Paths/solution.java"
-    },
-    {
-      "problem_id": "4056",
-      "problem_title": "Longest Balanced Substring II",
-      "difficulty": "Medium",
-      "language": "java",
-      "solved_at": "2026-07-12",
-      "file_path": "leetcode/Medium/Hash Tables/4056_Longest_Balanced_Substring_Ii/solution.java"
     }
   ]
 }
