@@ -6,23 +6,23 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | Metric | Count |
 | :--- | :--- |
-| **Total Solved** | **47** |
+| **Total Solved** | **50** |
 | 🟢 Easy | 3 |
 | 🟡 Medium | 31 |
-| 🔴 Hard | 13 |
+| 🔴 Hard | 16 |
 
 
 ## Solved by Topic
 
-- **Array**: 20 problems
+- **Array**: 22 problems
 - **String**: 16 problems
-- **Dynamic Programming**: 11 problems
+- **Dynamic Programming**: 13 problems
 - **Hash Table**: 9 problems
+- **Math**: 8 problems
 - **Two Pointers**: 7 problems
-- **Math**: 7 problems
 - **Sorting**: 7 problems
+- **Matrix**: 6 problems
 - **Backtracking**: 6 problems
-- **Matrix**: 5 problems
 - **Binary Search**: 4 problems
 - **Depth-First Search**: 4 problems
 - **Stack**: 3 problems
@@ -38,6 +38,8 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 - **Linked List**: 2 problems
 - **Recursion**: 2 problems
 - **Monotonic Stack**: 2 problems
+- **Database**: 1 problems
+- **Number Theory**: 1 problems
 - **Enumeration**: 1 problems
 - **Combinatorics**: 1 problems
 - **Divide and Conquer**: 1 problems
@@ -49,6 +51,9 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | # | Problem | Difficulty | Language | Solved Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 185 | Department Top Three Salaries | Hard | Mysql | 2026-07-14 | [Solution](./leetcode/Hard/Database/0185_Department_Top_Three_Salaries/solution.txt) |
+| 174 | Dungeon Game | Hard | Python | 2026-07-14 | [Solution](./leetcode/Hard/Arrays/0174_Dungeon_Game/solution.py) |
+| 3608 | Find the Number of Subsequences With Equal GCD | Hard | Java | 2026-07-14 | [Solution](./leetcode/Hard/Arrays/3608_Find_The_Number_Of_Subsequences_With_Equal_Gcd/solution.java) |
 | 1212 | Sequential Digits | Medium | Java | 2026-07-13 | [Solution](./leetcode/Medium/Enumeration/1212_Sequential_Digits/solution.java) |
 | 80 | Remove Duplicates from Sorted Array II | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Arrays/0080_Remove_Duplicates_From_Sorted_Array_Ii/solution.java) |
 | 77 | Combinations | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Backtracking/0077_Combinations/solution.java) |
@@ -56,9 +61,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 | 72 | Edit Distance | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Strings/0072_Edit_Distance/solution.java) |
 | 71 | Simplify Path | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Strings/0071_Simplify_Path/solution.java) |
 | 64 | Minimum Path Sum | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Arrays/0064_Minimum_Path_Sum/solution.java) |
-| 63 | Unique Paths II | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Arrays/0063_Unique_Paths_Ii/solution.java) |
-| 62 | Unique Paths | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Math/0062_Unique_Paths/solution.java) |
-| 4056 | Longest Balanced Substring II | Medium | Java | 2026-07-12 | [Solution](./leetcode/Medium/Hash Tables/4056_Longest_Balanced_Substring_Ii/solution.java) |
 
 ---
-*Last synchronization run: 2026-07-14 12:36:31 UTC*
+*Last synchronization run: 2026-07-14 12:40:18 UTC*
