@@ -1,7 +1,7 @@
 {
-  "total_solved": 57,
+  "total_solved": 58,
   "difficulty_breakdown": {
-    "Easy": 3,
+    "Easy": 4,
     "Medium": 31,
     "Hard": 23
   },
@@ -9,7 +9,7 @@
     "Array": 26,
     "String": 19,
     "Dynamic Programming": 15,
-    "Math": 10,
+    "Math": 11,
     "Sorting": 9,
     "Hash Table": 9,
     "Backtracking": 7,
@@ -24,6 +24,7 @@
     "Greedy": 3,
     "Tree": 3,
     "Binary Tree": 3,
+    "Number Theory": 2,
     "Sliding Window": 2,
     "Ordered Set": 2,
     "Divide and Conquer": 2,
@@ -43,13 +44,20 @@
     "Hash Function": 1,
     "Trie": 1,
     "Database": 1,
-    "Number Theory": 1,
     "Enumeration": 1,
     "Combinatorics": 1,
     "Binary Search Tree": 1
   },
-  "last_updated": "2026-07-14 13:02:53 UTC",
+  "last_updated": "2026-07-15 08:47:59 UTC",
   "recent_solved": [
+    {
+      "problem_id": "3995",
+      "problem_title": "GCD of Odd and Even Sums",
+      "difficulty": "Easy",
+      "language": "java",
+      "solved_at": "2026-07-15",
+      "file_path": "leetcode/Easy/Math/3995_Gcd_Of_Odd_And_Even_Sums/solution.java"
+    },
     {
       "problem_id": "233",
       "problem_title": "Number of Digit One",
@@ -121,14 +129,6 @@
       "language": "python",
       "solved_at": "2026-07-14",
       "file_path": "leetcode/Hard/Arrays/0174_Dungeon_Game/solution.py"
-    },
-    {
-      "problem_id": "3608",
-      "problem_title": "Find the Number of Subsequences With Equal GCD",
-      "difficulty": "Hard",
-      "language": "java",
-      "solved_at": "2026-07-14",
-      "file_path": "leetcode/Hard/Arrays/3608_Find_The_Number_Of_Subsequences_With_Equal_Gcd/solution.java"
     }
   ]
 }
