@@ -6,8 +6,8 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | Metric | Count |
 | :--- | :--- |
-| **Total Solved** | **57** |
-| 🟢 Easy | 3 |
+| **Total Solved** | **58** |
+| 🟢 Easy | 4 |
 | 🟡 Medium | 31 |
 | 🔴 Hard | 23 |
 
@@ -17,7 +17,7 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 - **Array**: 26 problems
 - **String**: 19 problems
 - **Dynamic Programming**: 15 problems
-- **Math**: 10 problems
+- **Math**: 11 problems
 - **Sorting**: 9 problems
 - **Hash Table**: 9 problems
 - **Backtracking**: 7 problems
@@ -32,6 +32,7 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 - **Greedy**: 3 problems
 - **Tree**: 3 problems
 - **Binary Tree**: 3 problems
+- **Number Theory**: 2 problems
 - **Sliding Window**: 2 problems
 - **Ordered Set**: 2 problems
 - **Divide and Conquer**: 2 problems
@@ -51,7 +52,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 - **Hash Function**: 1 problems
 - **Trie**: 1 problems
 - **Database**: 1 problems
-- **Number Theory**: 1 problems
 - **Enumeration**: 1 problems
 - **Combinatorics**: 1 problems
 - **Binary Search Tree**: 1 problems
@@ -61,6 +61,7 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | # | Problem | Difficulty | Language | Solved Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 3995 | GCD of Odd and Even Sums | Easy | Java | 2026-07-15 | [Solution](./leetcode/Easy/Math/3995_Gcd_Of_Odd_And_Even_Sums/solution.java) |
 | 233 | Number of Digit One | Hard | Java | 2026-07-14 | [Solution](./leetcode/Hard/Math/0233_Number_Of_Digit_One/solution.java) |
 | 224 | Basic Calculator | Hard | Java | 2026-07-14 | [Solution](./leetcode/Hard/Math/0224_Basic_Calculator/solution.java) |
 | 220 | Contains Duplicate III | Hard | Java | 2026-07-14 | [Solution](./leetcode/Hard/Arrays/0220_Contains_Duplicate_Iii/solution.java) |
@@ -70,7 +71,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 | 188 | Best Time to Buy and Sell Stock IV | Hard | Java | 2026-07-14 | [Solution](./leetcode/Hard/Arrays/0188_Best_Time_To_Buy_And_Sell_Stock_Iv/solution.java) |
 | 185 | Department Top Three Salaries | Hard | Mysql | 2026-07-14 | [Solution](./leetcode/Hard/Database/0185_Department_Top_Three_Salaries/solution.txt) |
 | 174 | Dungeon Game | Hard | Python | 2026-07-14 | [Solution](./leetcode/Hard/Arrays/0174_Dungeon_Game/solution.py) |
-| 3608 | Find the Number of Subsequences With Equal GCD | Hard | Java | 2026-07-14 | [Solution](./leetcode/Hard/Arrays/3608_Find_The_Number_Of_Subsequences_With_Equal_Gcd/solution.java) |
 
 ---
-*Last synchronization run: 2026-07-14 13:02:53 UTC*
+*Last synchronization run: 2026-07-15 08:47:59 UTC*
