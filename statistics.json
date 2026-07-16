@@ -1,35 +1,35 @@
 {
-  "total_solved": 58,
+  "total_solved": 59,
   "difficulty_breakdown": {
     "Easy": 4,
-    "Medium": 31,
+    "Medium": 32,
     "Hard": 23
   },
   "topic_distribution": {
-    "Array": 26,
+    "Array": 27,
     "String": 19,
     "Dynamic Programming": 15,
-    "Math": 11,
-    "Sorting": 9,
+    "Math": 12,
+    "Sorting": 10,
     "Hash Table": 9,
+    "Two Pointers": 8,
     "Backtracking": 7,
     "Matrix": 7,
-    "Two Pointers": 7,
     "Recursion": 4,
     "Stack": 4,
     "Binary Search": 4,
     "Depth-First Search": 4,
+    "Simulation": 3,
+    "Number Theory": 3,
     "Breadth-First Search": 3,
     "Graph Theory": 3,
     "Greedy": 3,
     "Tree": 3,
     "Binary Tree": 3,
-    "Number Theory": 2,
     "Sliding Window": 2,
     "Ordered Set": 2,
     "Divide and Conquer": 2,
     "Prefix Sum": 2,
-    "Simulation": 2,
     "Union-Find": 2,
     "Bit Manipulation": 2,
     "Linked List": 2,
@@ -48,8 +48,16 @@
     "Combinatorics": 1,
     "Binary Search Tree": 1
   },
-  "last_updated": "2026-07-15 08:47:59 UTC",
+  "last_updated": "2026-07-16 06:26:39 UTC",
   "recent_solved": [
+    {
+      "problem_id": "4242",
+      "problem_title": "Sum of GCD of Formed Pairs",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-16",
+      "file_path": "leetcode/Medium/Arrays/4242_Sum_Of_Gcd_Of_Formed_Pairs/solution.java"
+    },
     {
       "problem_id": "3995",
       "problem_title": "GCD of Odd and Even Sums",
@@ -121,14 +129,6 @@
       "language": "mysql",
       "solved_at": "2026-07-14",
       "file_path": "leetcode/Hard/Database/0185_Department_Top_Three_Salaries/solution.txt"
-    },
-    {
-      "problem_id": "174",
-      "problem_title": "Dungeon Game",
-      "difficulty": "Hard",
-      "language": "python",
-      "solved_at": "2026-07-14",
-      "file_path": "leetcode/Hard/Arrays/0174_Dungeon_Game/solution.py"
     }
   ]
 }
