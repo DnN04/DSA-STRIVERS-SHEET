@@ -1,7 +1,7 @@
 {
-  "total_solved": 59,
+  "total_solved": 60,
   "difficulty_breakdown": {
-    "Easy": 4,
+    "Easy": 5,
     "Medium": 32,
     "Hard": 23
   },
@@ -9,7 +9,7 @@
     "Array": 27,
     "String": 19,
     "Dynamic Programming": 15,
-    "Math": 12,
+    "Math": 13,
     "Sorting": 10,
     "Hash Table": 9,
     "Two Pointers": 8,
@@ -48,8 +48,16 @@
     "Combinatorics": 1,
     "Binary Search Tree": 1
   },
-  "last_updated": "2026-07-16 06:26:39 UTC",
+  "last_updated": "2026-07-16 06:29:01 UTC",
   "recent_solved": [
+    {
+      "problem_id": "9",
+      "problem_title": "Palindrome Number",
+      "difficulty": "Easy",
+      "language": "java",
+      "solved_at": "2026-07-16",
+      "file_path": "leetcode/Easy/Math/0009_Palindrome_Number/solution.java"
+    },
     {
       "problem_id": "4242",
       "problem_title": "Sum of GCD of Formed Pairs",
@@ -121,14 +129,6 @@
       "language": "java",
       "solved_at": "2026-07-14",
       "file_path": "leetcode/Hard/Arrays/0188_Best_Time_To_Buy_And_Sell_Stock_Iv/solution.java"
-    },
-    {
-      "problem_id": "185",
-      "problem_title": "Department Top Three Salaries",
-      "difficulty": "Hard",
-      "language": "mysql",
-      "solved_at": "2026-07-14",
-      "file_path": "leetcode/Hard/Database/0185_Department_Top_Three_Salaries/solution.txt"
     }
   ]
 }
