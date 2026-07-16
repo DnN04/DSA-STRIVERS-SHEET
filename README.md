@@ -6,38 +6,38 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | Metric | Count |
 | :--- | :--- |
-| **Total Solved** | **58** |
+| **Total Solved** | **59** |
 | 🟢 Easy | 4 |
-| 🟡 Medium | 31 |
+| 🟡 Medium | 32 |
 | 🔴 Hard | 23 |
 
 
 ## Solved by Topic
 
-- **Array**: 26 problems
+- **Array**: 27 problems
 - **String**: 19 problems
 - **Dynamic Programming**: 15 problems
-- **Math**: 11 problems
-- **Sorting**: 9 problems
+- **Math**: 12 problems
+- **Sorting**: 10 problems
 - **Hash Table**: 9 problems
+- **Two Pointers**: 8 problems
 - **Backtracking**: 7 problems
 - **Matrix**: 7 problems
-- **Two Pointers**: 7 problems
 - **Recursion**: 4 problems
 - **Stack**: 4 problems
 - **Binary Search**: 4 problems
 - **Depth-First Search**: 4 problems
+- **Simulation**: 3 problems
+- **Number Theory**: 3 problems
 - **Breadth-First Search**: 3 problems
 - **Graph Theory**: 3 problems
 - **Greedy**: 3 problems
 - **Tree**: 3 problems
 - **Binary Tree**: 3 problems
-- **Number Theory**: 2 problems
 - **Sliding Window**: 2 problems
 - **Ordered Set**: 2 problems
 - **Divide and Conquer**: 2 problems
 - **Prefix Sum**: 2 problems
-- **Simulation**: 2 problems
 - **Union-Find**: 2 problems
 - **Bit Manipulation**: 2 problems
 - **Linked List**: 2 problems
@@ -61,6 +61,7 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | # | Problem | Difficulty | Language | Solved Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 4242 | Sum of GCD of Formed Pairs | Medium | Java | 2026-07-16 | [Solution](./leetcode/Medium/Arrays/4242_Sum_Of_Gcd_Of_Formed_Pairs/solution.java) |
 | 3995 | GCD of Odd and Even Sums | Easy | Java | 2026-07-15 | [Solution](./leetcode/Easy/Math/3995_Gcd_Of_Odd_And_Even_Sums/solution.java) |
 | 233 | Number of Digit One | Hard | Java | 2026-07-14 | [Solution](./leetcode/Hard/Math/0233_Number_Of_Digit_One/solution.java) |
 | 224 | Basic Calculator | Hard | Java | 2026-07-14 | [Solution](./leetcode/Hard/Math/0224_Basic_Calculator/solution.java) |
@@ -70,7 +71,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 | 212 | Word Search II | Hard | Java | 2026-07-14 | [Solution](./leetcode/Hard/Arrays/0212_Word_Search_Ii/solution.java) |
 | 188 | Best Time to Buy and Sell Stock IV | Hard | Java | 2026-07-14 | [Solution](./leetcode/Hard/Arrays/0188_Best_Time_To_Buy_And_Sell_Stock_Iv/solution.java) |
 | 185 | Department Top Three Salaries | Hard | Mysql | 2026-07-14 | [Solution](./leetcode/Hard/Database/0185_Department_Top_Three_Salaries/solution.txt) |
-| 174 | Dungeon Game | Hard | Python | 2026-07-14 | [Solution](./leetcode/Hard/Arrays/0174_Dungeon_Game/solution.py) |
 
 ---
-*Last synchronization run: 2026-07-15 08:47:59 UTC*
+*Last synchronization run: 2026-07-16 06:26:39 UTC*
