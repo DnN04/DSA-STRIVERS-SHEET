@@ -6,42 +6,44 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | Metric | Count |
 | :--- | :--- |
-| **Total Solved** | **60** |
+| **Total Solved** | **61** |
 | 🟢 Easy | 5 |
 | 🟡 Medium | 32 |
-| 🔴 Hard | 23 |
+| 🔴 Hard | 24 |
 
 
 ## Solved by Topic
 
-- **Array**: 27 problems
+- **Array**: 28 problems
 - **String**: 19 problems
 - **Dynamic Programming**: 15 problems
-- **Math**: 13 problems
+- **Math**: 14 problems
+- **Hash Table**: 10 problems
 - **Sorting**: 10 problems
-- **Hash Table**: 9 problems
 - **Two Pointers**: 8 problems
 - **Backtracking**: 7 problems
 - **Matrix**: 7 problems
+- **Binary Search**: 5 problems
+- **Number Theory**: 4 problems
 - **Recursion**: 4 problems
 - **Stack**: 4 problems
-- **Binary Search**: 4 problems
 - **Depth-First Search**: 4 problems
+- **Prefix Sum**: 3 problems
 - **Simulation**: 3 problems
-- **Number Theory**: 3 problems
 - **Breadth-First Search**: 3 problems
 - **Graph Theory**: 3 problems
 - **Greedy**: 3 problems
 - **Tree**: 3 problems
 - **Binary Tree**: 3 problems
+- **Combinatorics**: 2 problems
 - **Sliding Window**: 2 problems
 - **Ordered Set**: 2 problems
 - **Divide and Conquer**: 2 problems
-- **Prefix Sum**: 2 problems
 - **Union-Find**: 2 problems
 - **Bit Manipulation**: 2 problems
 - **Linked List**: 2 problems
 - **Monotonic Stack**: 2 problems
+- **Counting**: 1 problems
 - **Bucket Sort**: 1 problems
 - **Binary Indexed Tree**: 1 problems
 - **Segment Tree**: 1 problems
@@ -53,7 +55,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 - **Trie**: 1 problems
 - **Database**: 1 problems
 - **Enumeration**: 1 problems
-- **Combinatorics**: 1 problems
 - **Binary Search Tree**: 1 problems
 
 
@@ -61,6 +62,7 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | # | Problem | Difficulty | Language | Solved Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 3583 | Sorted GCD Pair Queries | Hard | Java | 2026-07-17 | [Solution](./leetcode/Hard/Arrays/3583_Sorted_Gcd_Pair_Queries/solution.java) |
 | 9 | Palindrome Number | Easy | Java | 2026-07-16 | [Solution](./leetcode/Easy/Math/0009_Palindrome_Number/solution.java) |
 | 4242 | Sum of GCD of Formed Pairs | Medium | Java | 2026-07-16 | [Solution](./leetcode/Medium/Arrays/4242_Sum_Of_Gcd_Of_Formed_Pairs/solution.java) |
 | 3995 | GCD of Odd and Even Sums | Easy | Java | 2026-07-15 | [Solution](./leetcode/Easy/Math/3995_Gcd_Of_Odd_And_Even_Sums/solution.java) |
@@ -70,7 +72,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 | 218 | The Skyline Problem | Hard | Java | 2026-07-14 | [Solution](./leetcode/Hard/Arrays/0218_The_Skyline_Problem/solution.java) |
 | 214 | Shortest Palindrome | Hard | Java | 2026-07-14 | [Solution](./leetcode/Hard/Strings/0214_Shortest_Palindrome/solution.java) |
 | 212 | Word Search II | Hard | Java | 2026-07-14 | [Solution](./leetcode/Hard/Arrays/0212_Word_Search_Ii/solution.java) |
-| 188 | Best Time to Buy and Sell Stock IV | Hard | Java | 2026-07-14 | [Solution](./leetcode/Hard/Arrays/0188_Best_Time_To_Buy_And_Sell_Stock_Iv/solution.java) |
 
 ---
-*Last synchronization run: 2026-07-16 06:29:01 UTC*
+*Last synchronization run: 2026-07-17 07:12:24 UTC*
