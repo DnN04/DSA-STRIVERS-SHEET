@@ -1,39 +1,41 @@
 {
-  "total_solved": 60,
+  "total_solved": 61,
   "difficulty_breakdown": {
     "Easy": 5,
     "Medium": 32,
-    "Hard": 23
+    "Hard": 24
   },
   "topic_distribution": {
-    "Array": 27,
+    "Array": 28,
     "String": 19,
     "Dynamic Programming": 15,
-    "Math": 13,
+    "Math": 14,
+    "Hash Table": 10,
     "Sorting": 10,
-    "Hash Table": 9,
     "Two Pointers": 8,
     "Backtracking": 7,
     "Matrix": 7,
+    "Binary Search": 5,
+    "Number Theory": 4,
     "Recursion": 4,
     "Stack": 4,
-    "Binary Search": 4,
     "Depth-First Search": 4,
+    "Prefix Sum": 3,
     "Simulation": 3,
-    "Number Theory": 3,
     "Breadth-First Search": 3,
     "Graph Theory": 3,
     "Greedy": 3,
     "Tree": 3,
     "Binary Tree": 3,
+    "Combinatorics": 2,
     "Sliding Window": 2,
     "Ordered Set": 2,
     "Divide and Conquer": 2,
-    "Prefix Sum": 2,
     "Union-Find": 2,
     "Bit Manipulation": 2,
     "Linked List": 2,
     "Monotonic Stack": 2,
+    "Counting": 1,
     "Bucket Sort": 1,
     "Binary Indexed Tree": 1,
     "Segment Tree": 1,
@@ -45,11 +47,18 @@
     "Trie": 1,
     "Database": 1,
     "Enumeration": 1,
-    "Combinatorics": 1,
     "Binary Search Tree": 1
   },
-  "last_updated": "2026-07-16 06:29:01 UTC",
+  "last_updated": "2026-07-17 07:12:24 UTC",
   "recent_solved": [
+    {
+      "problem_id": "3583",
+      "problem_title": "Sorted GCD Pair Queries",
+      "difficulty": "Hard",
+      "language": "java",
+      "solved_at": "2026-07-17",
+      "file_path": "leetcode/Hard/Arrays/3583_Sorted_Gcd_Pair_Queries/solution.java"
+    },
     {
       "problem_id": "9",
       "problem_title": "Palindrome Number",
@@ -121,14 +130,6 @@
       "language": "java",
       "solved_at": "2026-07-14",
       "file_path": "leetcode/Hard/Arrays/0212_Word_Search_Ii/solution.java"
-    },
-    {
-      "problem_id": "188",
-      "problem_title": "Best Time to Buy and Sell Stock IV",
-      "difficulty": "Hard",
-      "language": "java",
-      "solved_at": "2026-07-14",
-      "file_path": "leetcode/Hard/Arrays/0188_Best_Time_To_Buy_And_Sell_Stock_Iv/solution.java"
     }
   ]
 }
