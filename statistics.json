@@ -1,22 +1,22 @@
 {
-  "total_solved": 61,
+  "total_solved": 62,
   "difficulty_breakdown": {
-    "Easy": 5,
+    "Easy": 6,
     "Medium": 32,
     "Hard": 24
   },
   "topic_distribution": {
-    "Array": 28,
+    "Array": 29,
     "String": 19,
+    "Math": 15,
     "Dynamic Programming": 15,
-    "Math": 14,
     "Hash Table": 10,
     "Sorting": 10,
     "Two Pointers": 8,
     "Backtracking": 7,
     "Matrix": 7,
+    "Number Theory": 5,
     "Binary Search": 5,
-    "Number Theory": 4,
     "Recursion": 4,
     "Stack": 4,
     "Depth-First Search": 4,
@@ -49,8 +49,16 @@
     "Enumeration": 1,
     "Binary Search Tree": 1
   },
-  "last_updated": "2026-07-17 07:12:24 UTC",
+  "last_updated": "2026-07-18 13:35:24 UTC",
   "recent_solved": [
+    {
+      "problem_id": "2106",
+      "problem_title": "Find Greatest Common Divisor of Array",
+      "difficulty": "Easy",
+      "language": "java",
+      "solved_at": "2026-07-18",
+      "file_path": "leetcode/Easy/Arrays/2106_Find_Greatest_Common_Divisor_Of_Array/solution.java"
+    },
     {
       "problem_id": "3583",
       "problem_title": "Sorted GCD Pair Queries",
@@ -122,14 +130,6 @@
       "language": "java",
       "solved_at": "2026-07-14",
       "file_path": "leetcode/Hard/Strings/0214_Shortest_Palindrome/solution.java"
-    },
-    {
-      "problem_id": "212",
-      "problem_title": "Word Search II",
-      "difficulty": "Hard",
-      "language": "java",
-      "solved_at": "2026-07-14",
-      "file_path": "leetcode/Hard/Arrays/0212_Word_Search_Ii/solution.java"
     }
   ]
 }
