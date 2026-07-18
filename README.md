@@ -6,25 +6,25 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | Metric | Count |
 | :--- | :--- |
-| **Total Solved** | **61** |
-| 🟢 Easy | 5 |
+| **Total Solved** | **62** |
+| 🟢 Easy | 6 |
 | 🟡 Medium | 32 |
 | 🔴 Hard | 24 |
 
 
 ## Solved by Topic
 
-- **Array**: 28 problems
+- **Array**: 29 problems
 - **String**: 19 problems
+- **Math**: 15 problems
 - **Dynamic Programming**: 15 problems
-- **Math**: 14 problems
 - **Hash Table**: 10 problems
 - **Sorting**: 10 problems
 - **Two Pointers**: 8 problems
 - **Backtracking**: 7 problems
 - **Matrix**: 7 problems
+- **Number Theory**: 5 problems
 - **Binary Search**: 5 problems
-- **Number Theory**: 4 problems
 - **Recursion**: 4 problems
 - **Stack**: 4 problems
 - **Depth-First Search**: 4 problems
@@ -62,6 +62,7 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | # | Problem | Difficulty | Language | Solved Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 2106 | Find Greatest Common Divisor of Array | Easy | Java | 2026-07-18 | [Solution](./leetcode/Easy/Arrays/2106_Find_Greatest_Common_Divisor_Of_Array/solution.java) |
 | 3583 | Sorted GCD Pair Queries | Hard | Java | 2026-07-17 | [Solution](./leetcode/Hard/Arrays/3583_Sorted_Gcd_Pair_Queries/solution.java) |
 | 9 | Palindrome Number | Easy | Java | 2026-07-16 | [Solution](./leetcode/Easy/Math/0009_Palindrome_Number/solution.java) |
 | 4242 | Sum of GCD of Formed Pairs | Medium | Java | 2026-07-16 | [Solution](./leetcode/Medium/Arrays/4242_Sum_Of_Gcd_Of_Formed_Pairs/solution.java) |
@@ -71,7 +72,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 | 220 | Contains Duplicate III | Hard | Java | 2026-07-14 | [Solution](./leetcode/Hard/Arrays/0220_Contains_Duplicate_Iii/solution.java) |
 | 218 | The Skyline Problem | Hard | Java | 2026-07-14 | [Solution](./leetcode/Hard/Arrays/0218_The_Skyline_Problem/solution.java) |
 | 214 | Shortest Palindrome | Hard | Java | 2026-07-14 | [Solution](./leetcode/Hard/Strings/0214_Shortest_Palindrome/solution.java) |
-| 212 | Word Search II | Hard | Java | 2026-07-14 | [Solution](./leetcode/Hard/Arrays/0212_Word_Search_Ii/solution.java) |
 
 ---
-*Last synchronization run: 2026-07-17 07:12:24 UTC*
+*Last synchronization run: 2026-07-18 13:35:24 UTC*
