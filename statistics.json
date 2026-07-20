@@ -1,30 +1,30 @@
 {
-  "total_solved": 68,
+  "total_solved": 69,
   "difficulty_breakdown": {
-    "Easy": 11,
+    "Easy": 12,
     "Medium": 33,
     "Hard": 24
   },
   "topic_distribution": {
-    "Array": 31,
+    "Array": 32,
     "String": 23,
     "Math": 16,
     "Dynamic Programming": 15,
     "Hash Table": 11,
     "Sorting": 10,
     "Two Pointers": 9,
+    "Matrix": 8,
     "Backtracking": 7,
-    "Matrix": 7,
     "Stack": 6,
     "Recursion": 5,
     "Number Theory": 5,
     "Binary Search": 5,
+    "Simulation": 4,
     "Greedy": 4,
     "Depth-First Search": 4,
     "Linked List": 3,
     "Monotonic Stack": 3,
     "Prefix Sum": 3,
-    "Simulation": 3,
     "Breadth-First Search": 3,
     "Graph Theory": 3,
     "Tree": 3,
@@ -49,8 +49,16 @@
     "Enumeration": 1,
     "Binary Search Tree": 1
   },
-  "last_updated": "2026-07-19 04:29:40 UTC",
+  "last_updated": "2026-07-20 05:54:02 UTC",
   "recent_solved": [
+    {
+      "problem_id": "1386",
+      "problem_title": "Shift 2D Grid",
+      "difficulty": "Easy",
+      "language": "java",
+      "solved_at": "2026-07-20",
+      "file_path": "leetcode/Easy/Arrays/1386_Shift_2d_Grid/solution.java"
+    },
     {
       "problem_id": "26",
       "problem_title": "Remove Duplicates from Sorted Array",
@@ -122,14 +130,6 @@
       "language": "java",
       "solved_at": "2026-07-16",
       "file_path": "leetcode/Easy/Math/0009_Palindrome_Number/solution.java"
-    },
-    {
-      "problem_id": "4242",
-      "problem_title": "Sum of GCD of Formed Pairs",
-      "difficulty": "Medium",
-      "language": "java",
-      "solved_at": "2026-07-16",
-      "file_path": "leetcode/Medium/Arrays/4242_Sum_Of_Gcd_Of_Formed_Pairs/solution.java"
     }
   ]
 }
