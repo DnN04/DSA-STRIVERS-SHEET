@@ -1,7 +1,7 @@
 {
-  "total_solved": 73,
+  "total_solved": 74,
   "difficulty_breakdown": {
-    "Easy": 15,
+    "Easy": 16,
     "Medium": 34,
     "Hard": 24
   },
@@ -22,6 +22,7 @@
     "Simulation": 4,
     "Greedy": 4,
     "Depth-First Search": 4,
+    "Bit Manipulation": 3,
     "Linked List": 3,
     "Monotonic Stack": 3,
     "Prefix Sum": 3,
@@ -37,7 +38,6 @@
     "Ordered Set": 2,
     "Divide and Conquer": 2,
     "Union-Find": 2,
-    "Bit Manipulation": 2,
     "Counting": 1,
     "Bucket Sort": 1,
     "Binary Indexed Tree": 1,
@@ -49,8 +49,16 @@
     "Database": 1,
     "Binary Search Tree": 1
   },
-  "last_updated": "2026-07-21 15:44:03 UTC",
+  "last_updated": "2026-07-21 15:45:31 UTC",
   "recent_solved": [
+    {
+      "problem_id": "899",
+      "problem_title": "Binary Gap",
+      "difficulty": "Easy",
+      "language": "java",
+      "solved_at": "2026-07-21",
+      "file_path": "leetcode/Easy/Bit_Manipulation/0899_Binary_Gap/solution.java"
+    },
     {
       "problem_id": "3805",
       "problem_title": "Maximize Active Section with Trade I",
@@ -122,14 +130,6 @@
       "language": "java",
       "solved_at": "2026-07-19",
       "file_path": "leetcode/Easy/Arrays/0014_Longest_Common_Prefix/solution.java"
-    },
-    {
-      "problem_id": "13",
-      "problem_title": "Roman to Integer",
-      "difficulty": "Easy",
-      "language": "java",
-      "solved_at": "2026-07-19",
-      "file_path": "leetcode/Easy/Hash Tables/0013_Roman_To_Integer/solution.java"
     }
   ]
 }
