@@ -6,16 +6,16 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | Metric | Count |
 | :--- | :--- |
-| **Total Solved** | **72** |
+| **Total Solved** | **73** |
 | 🟢 Easy | 15 |
-| 🟡 Medium | 33 |
+| 🟡 Medium | 34 |
 | 🔴 Hard | 24 |
 
 
 ## Solved by Topic
 
 - **Array**: 34 problems
-- **String**: 24 problems
+- **String**: 25 problems
 - **Math**: 16 problems
 - **Dynamic Programming**: 15 problems
 - **Two Pointers**: 11 problems
@@ -37,6 +37,7 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 - **Graph Theory**: 3 problems
 - **Tree**: 3 problems
 - **Binary Tree**: 3 problems
+- **Enumeration**: 2 problems
 - **String Matching**: 2 problems
 - **Trie**: 2 problems
 - **Combinatorics**: 2 problems
@@ -54,7 +55,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 - **Rolling Hash**: 1 problems
 - **Hash Function**: 1 problems
 - **Database**: 1 problems
-- **Enumeration**: 1 problems
 - **Binary Search Tree**: 1 problems
 
 
@@ -62,6 +62,7 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | # | Problem | Difficulty | Language | Solved Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 3805 | Maximize Active Section with Trade I | Medium | Java | 2026-07-21 | [Solution](./leetcode/Medium/Strings/3805_Maximize_Active_Section_With_Trade_I/solution.java) |
 | 35 | Search Insert Position | Easy | Java | 2026-07-20 | [Solution](./leetcode/Easy/Arrays/0035_Search_Insert_Position/solution.java) |
 | 28 | Find the Index of the First Occurrence in a String | Easy | Java | 2026-07-20 | [Solution](./leetcode/Easy/Two_Pointers/0028_Find_The_Index_Of_The_First_Occurrence_In_A_String/solution.java) |
 | 27 | Remove Element | Easy | Java | 2026-07-20 | [Solution](./leetcode/Easy/Arrays/0027_Remove_Element/solution.java) |
@@ -71,7 +72,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 | 20 | Valid Parentheses | Easy | Java | 2026-07-19 | [Solution](./leetcode/Easy/Strings/0020_Valid_Parentheses/solution.java) |
 | 14 | Longest Common Prefix | Easy | Java | 2026-07-19 | [Solution](./leetcode/Easy/Arrays/0014_Longest_Common_Prefix/solution.java) |
 | 13 | Roman to Integer | Easy | Java | 2026-07-19 | [Solution](./leetcode/Easy/Hash Tables/0013_Roman_To_Integer/solution.java) |
-| 1159 | Smallest Subsequence of Distinct Characters | Medium | Java | 2026-07-19 | [Solution](./leetcode/Medium/Strings/1159_Smallest_Subsequence_Of_Distinct_Characters/solution.java) |
 
 ---
-*Last synchronization run: 2026-07-20 11:24:41 UTC*
+*Last synchronization run: 2026-07-21 15:44:03 UTC*
