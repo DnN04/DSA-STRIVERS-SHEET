@@ -6,72 +6,72 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | Metric | Count |
 | :--- | :--- |
-| **Total Solved** | **74** |
-| 🟢 Easy | 16 |
+| **Total Solved** | **80** |
+| 🟢 Easy | 21 |
 | 🟡 Medium | 34 |
-| 🔴 Hard | 24 |
+| 🔴 Hard | 25 |
 
 
 ## Solved by Topic
 
-- **Array**: 34 problems
-- **String**: 25 problems
+- **Array**: 36 problems
+- **String**: 26 problems
 - **Math**: 16 problems
 - **Dynamic Programming**: 15 problems
 - **Two Pointers**: 11 problems
 - **Hash Table**: 11 problems
 - **Sorting**: 10 problems
+- **Tree**: 8 problems
+- **Binary Tree**: 8 problems
+- **Depth-First Search**: 8 problems
 - **Matrix**: 8 problems
+- **Stack**: 7 problems
+- **Binary Search**: 7 problems
 - **Backtracking**: 7 problems
-- **Binary Search**: 6 problems
-- **Stack**: 6 problems
+- **Breadth-First Search**: 6 problems
 - **Recursion**: 5 problems
 - **Number Theory**: 5 problems
 - **Simulation**: 4 problems
 - **Greedy**: 4 problems
-- **Depth-First Search**: 4 problems
+- **Divide and Conquer**: 3 problems
 - **Bit Manipulation**: 3 problems
 - **Linked List**: 3 problems
 - **Monotonic Stack**: 3 problems
 - **Prefix Sum**: 3 problems
-- **Breadth-First Search**: 3 problems
 - **Graph Theory**: 3 problems
-- **Tree**: 3 problems
-- **Binary Tree**: 3 problems
+- **Binary Search Tree**: 2 problems
+- **Segment Tree**: 2 problems
 - **Enumeration**: 2 problems
 - **String Matching**: 2 problems
 - **Trie**: 2 problems
 - **Combinatorics**: 2 problems
 - **Sliding Window**: 2 problems
 - **Ordered Set**: 2 problems
-- **Divide and Conquer**: 2 problems
 - **Union-Find**: 2 problems
 - **Counting**: 1 problems
 - **Bucket Sort**: 1 problems
 - **Binary Indexed Tree**: 1 problems
-- **Segment Tree**: 1 problems
 - **Sweep Line**: 1 problems
 - **Heap (Priority Queue)**: 1 problems
 - **Rolling Hash**: 1 problems
 - **Hash Function**: 1 problems
 - **Database**: 1 problems
-- **Binary Search Tree**: 1 problems
 
 
 ## Recent Solved Problems
 
 | # | Problem | Difficulty | Language | Solved Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 108 | Convert Sorted Array to Binary Search Tree | Easy | Java | 2026-07-22 | [Solution](./leetcode/Easy/Arrays/0108_Convert_Sorted_Array_To_Binary_Search_Tree/solution.java) |
+| 104 | Maximum Depth of Binary Tree | Easy | Java | 2026-07-22 | [Solution](./leetcode/Easy/Trees/0104_Maximum_Depth_Of_Binary_Tree/solution.java) |
+| 101 | Symmetric Tree | Easy | Java | 2026-07-22 | [Solution](./leetcode/Easy/Trees/0101_Symmetric_Tree/solution.java) |
+| 100 | Same Tree | Easy | Java | 2026-07-22 | [Solution](./leetcode/Easy/Trees/0100_Same_Tree/solution.java) |
+| 94 | Binary Tree Inorder Traversal | Easy | Java | 2026-07-22 | [Solution](./leetcode/Easy/Stack/0094_Binary_Tree_Inorder_Traversal/solution.java) |
+| 3804 | Maximize Active Section with Trade II | Hard | Java | 2026-07-22 | [Solution](./leetcode/Hard/Arrays/3804_Maximize_Active_Section_With_Trade_Ii/solution.java) |
 | 899 | Binary Gap | Easy | Java | 2026-07-21 | [Solution](./leetcode/Easy/Bit_Manipulation/0899_Binary_Gap/solution.java) |
 | 3805 | Maximize Active Section with Trade I | Medium | Java | 2026-07-21 | [Solution](./leetcode/Medium/Strings/3805_Maximize_Active_Section_With_Trade_I/solution.java) |
 | 35 | Search Insert Position | Easy | Java | 2026-07-20 | [Solution](./leetcode/Easy/Arrays/0035_Search_Insert_Position/solution.java) |
 | 28 | Find the Index of the First Occurrence in a String | Easy | Java | 2026-07-20 | [Solution](./leetcode/Easy/Two_Pointers/0028_Find_The_Index_Of_The_First_Occurrence_In_A_String/solution.java) |
-| 27 | Remove Element | Easy | Java | 2026-07-20 | [Solution](./leetcode/Easy/Arrays/0027_Remove_Element/solution.java) |
-| 1386 | Shift 2D Grid | Easy | Java | 2026-07-20 | [Solution](./leetcode/Easy/Arrays/1386_Shift_2d_Grid/solution.java) |
-| 26 | Remove Duplicates from Sorted Array | Easy | Java | 2026-07-19 | [Solution](./leetcode/Easy/Arrays/0026_Remove_Duplicates_From_Sorted_Array/solution.java) |
-| 21 | Merge Two Sorted Lists | Easy | Java | 2026-07-19 | [Solution](./leetcode/Easy/Linked_List/0021_Merge_Two_Sorted_Lists/solution.java) |
-| 20 | Valid Parentheses | Easy | Java | 2026-07-19 | [Solution](./leetcode/Easy/Strings/0020_Valid_Parentheses/solution.java) |
-| 14 | Longest Common Prefix | Easy | Java | 2026-07-19 | [Solution](./leetcode/Easy/Arrays/0014_Longest_Common_Prefix/solution.java) |
 
 ---
-*Last synchronization run: 2026-07-21 15:45:31 UTC*
+*Last synchronization run: 2026-07-22 04:36:26 UTC*
