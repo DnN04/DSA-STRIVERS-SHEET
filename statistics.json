@@ -1,56 +1,104 @@
 {
-  "total_solved": 74,
+  "total_solved": 80,
   "difficulty_breakdown": {
-    "Easy": 16,
+    "Easy": 21,
     "Medium": 34,
-    "Hard": 24
+    "Hard": 25
   },
   "topic_distribution": {
-    "Array": 34,
-    "String": 25,
+    "Array": 36,
+    "String": 26,
     "Math": 16,
     "Dynamic Programming": 15,
     "Two Pointers": 11,
     "Hash Table": 11,
     "Sorting": 10,
+    "Tree": 8,
+    "Binary Tree": 8,
+    "Depth-First Search": 8,
     "Matrix": 8,
+    "Stack": 7,
+    "Binary Search": 7,
     "Backtracking": 7,
-    "Binary Search": 6,
-    "Stack": 6,
+    "Breadth-First Search": 6,
     "Recursion": 5,
     "Number Theory": 5,
     "Simulation": 4,
     "Greedy": 4,
-    "Depth-First Search": 4,
+    "Divide and Conquer": 3,
     "Bit Manipulation": 3,
     "Linked List": 3,
     "Monotonic Stack": 3,
     "Prefix Sum": 3,
-    "Breadth-First Search": 3,
     "Graph Theory": 3,
-    "Tree": 3,
-    "Binary Tree": 3,
+    "Binary Search Tree": 2,
+    "Segment Tree": 2,
     "Enumeration": 2,
     "String Matching": 2,
     "Trie": 2,
     "Combinatorics": 2,
     "Sliding Window": 2,
     "Ordered Set": 2,
-    "Divide and Conquer": 2,
     "Union-Find": 2,
     "Counting": 1,
     "Bucket Sort": 1,
     "Binary Indexed Tree": 1,
-    "Segment Tree": 1,
     "Sweep Line": 1,
     "Heap (Priority Queue)": 1,
     "Rolling Hash": 1,
     "Hash Function": 1,
-    "Database": 1,
-    "Binary Search Tree": 1
+    "Database": 1
   },
-  "last_updated": "2026-07-21 15:45:31 UTC",
+  "last_updated": "2026-07-22 04:36:26 UTC",
   "recent_solved": [
+    {
+      "problem_id": "108",
+      "problem_title": "Convert Sorted Array to Binary Search Tree",
+      "difficulty": "Easy",
+      "language": "java",
+      "solved_at": "2026-07-22",
+      "file_path": "leetcode/Easy/Arrays/0108_Convert_Sorted_Array_To_Binary_Search_Tree/solution.java"
+    },
+    {
+      "problem_id": "104",
+      "problem_title": "Maximum Depth of Binary Tree",
+      "difficulty": "Easy",
+      "language": "java",
+      "solved_at": "2026-07-22",
+      "file_path": "leetcode/Easy/Trees/0104_Maximum_Depth_Of_Binary_Tree/solution.java"
+    },
+    {
+      "problem_id": "101",
+      "problem_title": "Symmetric Tree",
+      "difficulty": "Easy",
+      "language": "java",
+      "solved_at": "2026-07-22",
+      "file_path": "leetcode/Easy/Trees/0101_Symmetric_Tree/solution.java"
+    },
+    {
+      "problem_id": "100",
+      "problem_title": "Same Tree",
+      "difficulty": "Easy",
+      "language": "java",
+      "solved_at": "2026-07-22",
+      "file_path": "leetcode/Easy/Trees/0100_Same_Tree/solution.java"
+    },
+    {
+      "problem_id": "94",
+      "problem_title": "Binary Tree Inorder Traversal",
+      "difficulty": "Easy",
+      "language": "java",
+      "solved_at": "2026-07-22",
+      "file_path": "leetcode/Easy/Stack/0094_Binary_Tree_Inorder_Traversal/solution.java"
+    },
+    {
+      "problem_id": "3804",
+      "problem_title": "Maximize Active Section with Trade II",
+      "difficulty": "Hard",
+      "language": "java",
+      "solved_at": "2026-07-22",
+      "file_path": "leetcode/Hard/Arrays/3804_Maximize_Active_Section_With_Trade_Ii/solution.java"
+    },
     {
       "problem_id": "899",
       "problem_title": "Binary Gap",
@@ -82,54 +130,6 @@
       "language": "java",
       "solved_at": "2026-07-20",
       "file_path": "leetcode/Easy/Two_Pointers/0028_Find_The_Index_Of_The_First_Occurrence_In_A_String/solution.java"
-    },
-    {
-      "problem_id": "27",
-      "problem_title": "Remove Element",
-      "difficulty": "Easy",
-      "language": "java",
-      "solved_at": "2026-07-20",
-      "file_path": "leetcode/Easy/Arrays/0027_Remove_Element/solution.java"
-    },
-    {
-      "problem_id": "1386",
-      "problem_title": "Shift 2D Grid",
-      "difficulty": "Easy",
-      "language": "java",
-      "solved_at": "2026-07-20",
-      "file_path": "leetcode/Easy/Arrays/1386_Shift_2d_Grid/solution.java"
-    },
-    {
-      "problem_id": "26",
-      "problem_title": "Remove Duplicates from Sorted Array",
-      "difficulty": "Easy",
-      "language": "java",
-      "solved_at": "2026-07-19",
-      "file_path": "leetcode/Easy/Arrays/0026_Remove_Duplicates_From_Sorted_Array/solution.java"
-    },
-    {
-      "problem_id": "21",
-      "problem_title": "Merge Two Sorted Lists",
-      "difficulty": "Easy",
-      "language": "java",
-      "solved_at": "2026-07-19",
-      "file_path": "leetcode/Easy/Linked_List/0021_Merge_Two_Sorted_Lists/solution.java"
-    },
-    {
-      "problem_id": "20",
-      "problem_title": "Valid Parentheses",
-      "difficulty": "Easy",
-      "language": "java",
-      "solved_at": "2026-07-19",
-      "file_path": "leetcode/Easy/Strings/0020_Valid_Parentheses/solution.java"
-    },
-    {
-      "problem_id": "14",
-      "problem_title": "Longest Common Prefix",
-      "difficulty": "Easy",
-      "language": "java",
-      "solved_at": "2026-07-19",
-      "file_path": "leetcode/Easy/Arrays/0014_Longest_Common_Prefix/solution.java"
     }
   ]
 }
