@@ -1,33 +1,33 @@
 {
-  "total_solved": 81,
+  "total_solved": 85,
   "difficulty_breakdown": {
-    "Easy": 21,
+    "Easy": 25,
     "Medium": 35,
     "Hard": 25
   },
   "topic_distribution": {
-    "Array": 37,
-    "String": 26,
+    "Array": 38,
+    "String": 27,
     "Math": 17,
     "Dynamic Programming": 15,
-    "Two Pointers": 11,
-    "Hash Table": 11,
+    "Two Pointers": 13,
+    "Hash Table": 12,
     "Sorting": 10,
-    "Tree": 8,
-    "Binary Tree": 8,
-    "Depth-First Search": 8,
+    "Tree": 9,
+    "Depth-First Search": 9,
+    "Binary Tree": 9,
+    "Stack": 8,
     "Matrix": 8,
-    "Stack": 7,
     "Binary Search": 7,
     "Backtracking": 7,
     "Breadth-First Search": 6,
+    "Bit Manipulation": 5,
     "Recursion": 5,
     "Number Theory": 5,
-    "Bit Manipulation": 4,
+    "Linked List": 4,
     "Simulation": 4,
     "Greedy": 4,
     "Divide and Conquer": 3,
-    "Linked List": 3,
     "Monotonic Stack": 3,
     "Prefix Sum": 3,
     "Graph Theory": 3,
@@ -49,8 +49,40 @@
     "Hash Function": 1,
     "Database": 1
   },
-  "last_updated": "2026-07-23 11:29:10 UTC",
+  "last_updated": "2026-07-23 11:33:57 UTC",
   "recent_solved": [
+    {
+      "problem_id": "144",
+      "problem_title": "Binary Tree Preorder Traversal",
+      "difficulty": "Easy",
+      "language": "java",
+      "solved_at": "2026-07-23",
+      "file_path": "leetcode/Easy/Stack/0144_Binary_Tree_Preorder_Traversal/solution.java"
+    },
+    {
+      "problem_id": "141",
+      "problem_title": "Linked List Cycle",
+      "difficulty": "Easy",
+      "language": "java",
+      "solved_at": "2026-07-23",
+      "file_path": "leetcode/Easy/Hash Tables/0141_Linked_List_Cycle/solution.java"
+    },
+    {
+      "problem_id": "136",
+      "problem_title": "Single Number",
+      "difficulty": "Easy",
+      "language": "java",
+      "solved_at": "2026-07-23",
+      "file_path": "leetcode/Easy/Arrays/0136_Single_Number/solution.java"
+    },
+    {
+      "problem_id": "125",
+      "problem_title": "Valid Palindrome",
+      "difficulty": "Easy",
+      "language": "java",
+      "solved_at": "2026-07-23",
+      "file_path": "leetcode/Easy/Two_Pointers/0125_Valid_Palindrome/solution.java"
+    },
     {
       "problem_id": "3824",
       "problem_title": "Number of Unique XOR Triplets I",
@@ -98,38 +130,6 @@
       "language": "java",
       "solved_at": "2026-07-22",
       "file_path": "leetcode/Easy/Stack/0094_Binary_Tree_Inorder_Traversal/solution.java"
-    },
-    {
-      "problem_id": "3804",
-      "problem_title": "Maximize Active Section with Trade II",
-      "difficulty": "Hard",
-      "language": "java",
-      "solved_at": "2026-07-22",
-      "file_path": "leetcode/Hard/Arrays/3804_Maximize_Active_Section_With_Trade_Ii/solution.java"
-    },
-    {
-      "problem_id": "899",
-      "problem_title": "Binary Gap",
-      "difficulty": "Easy",
-      "language": "java",
-      "solved_at": "2026-07-21",
-      "file_path": "leetcode/Easy/Bit_Manipulation/0899_Binary_Gap/solution.java"
-    },
-    {
-      "problem_id": "3805",
-      "problem_title": "Maximize Active Section with Trade I",
-      "difficulty": "Medium",
-      "language": "java",
-      "solved_at": "2026-07-21",
-      "file_path": "leetcode/Medium/Strings/3805_Maximize_Active_Section_With_Trade_I/solution.java"
-    },
-    {
-      "problem_id": "35",
-      "problem_title": "Search Insert Position",
-      "difficulty": "Easy",
-      "language": "java",
-      "solved_at": "2026-07-20",
-      "file_path": "leetcode/Easy/Arrays/0035_Search_Insert_Position/solution.java"
     }
   ]
 }
