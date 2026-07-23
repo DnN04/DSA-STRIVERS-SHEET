@@ -6,17 +6,17 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | Metric | Count |
 | :--- | :--- |
-| **Total Solved** | **80** |
+| **Total Solved** | **81** |
 | 🟢 Easy | 21 |
-| 🟡 Medium | 34 |
+| 🟡 Medium | 35 |
 | 🔴 Hard | 25 |
 
 
 ## Solved by Topic
 
-- **Array**: 36 problems
+- **Array**: 37 problems
 - **String**: 26 problems
-- **Math**: 16 problems
+- **Math**: 17 problems
 - **Dynamic Programming**: 15 problems
 - **Two Pointers**: 11 problems
 - **Hash Table**: 11 problems
@@ -31,10 +31,10 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 - **Breadth-First Search**: 6 problems
 - **Recursion**: 5 problems
 - **Number Theory**: 5 problems
+- **Bit Manipulation**: 4 problems
 - **Simulation**: 4 problems
 - **Greedy**: 4 problems
 - **Divide and Conquer**: 3 problems
-- **Bit Manipulation**: 3 problems
 - **Linked List**: 3 problems
 - **Monotonic Stack**: 3 problems
 - **Prefix Sum**: 3 problems
@@ -62,6 +62,7 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | # | Problem | Difficulty | Language | Solved Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 3824 | Number of Unique XOR Triplets I | Medium | Java | 2026-07-23 | [Solution](./leetcode/Medium/Arrays/3824_Number_Of_Unique_Xor_Triplets_I/solution.java) |
 | 108 | Convert Sorted Array to Binary Search Tree | Easy | Java | 2026-07-22 | [Solution](./leetcode/Easy/Arrays/0108_Convert_Sorted_Array_To_Binary_Search_Tree/solution.java) |
 | 104 | Maximum Depth of Binary Tree | Easy | Java | 2026-07-22 | [Solution](./leetcode/Easy/Trees/0104_Maximum_Depth_Of_Binary_Tree/solution.java) |
 | 101 | Symmetric Tree | Easy | Java | 2026-07-22 | [Solution](./leetcode/Easy/Trees/0101_Symmetric_Tree/solution.java) |
@@ -71,7 +72,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 | 899 | Binary Gap | Easy | Java | 2026-07-21 | [Solution](./leetcode/Easy/Bit_Manipulation/0899_Binary_Gap/solution.java) |
 | 3805 | Maximize Active Section with Trade I | Medium | Java | 2026-07-21 | [Solution](./leetcode/Medium/Strings/3805_Maximize_Active_Section_With_Trade_I/solution.java) |
 | 35 | Search Insert Position | Easy | Java | 2026-07-20 | [Solution](./leetcode/Easy/Arrays/0035_Search_Insert_Position/solution.java) |
-| 28 | Find the Index of the First Occurrence in a String | Easy | Java | 2026-07-20 | [Solution](./leetcode/Easy/Two_Pointers/0028_Find_The_Index_Of_The_First_Occurrence_In_A_String/solution.java) |
 
 ---
-*Last synchronization run: 2026-07-22 04:36:26 UTC*
+*Last synchronization run: 2026-07-23 11:29:10 UTC*
