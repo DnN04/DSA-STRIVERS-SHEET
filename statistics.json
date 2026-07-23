@@ -1,7 +1,7 @@
 {
-  "total_solved": 85,
+  "total_solved": 87,
   "difficulty_breakdown": {
-    "Easy": 25,
+    "Easy": 27,
     "Medium": 35,
     "Hard": 25
   },
@@ -10,21 +10,21 @@
     "String": 27,
     "Math": 17,
     "Dynamic Programming": 15,
-    "Two Pointers": 13,
-    "Hash Table": 12,
+    "Two Pointers": 14,
+    "Hash Table": 13,
+    "Tree": 10,
+    "Depth-First Search": 10,
+    "Binary Tree": 10,
     "Sorting": 10,
-    "Tree": 9,
-    "Depth-First Search": 9,
-    "Binary Tree": 9,
-    "Stack": 8,
+    "Stack": 9,
     "Matrix": 8,
     "Binary Search": 7,
     "Backtracking": 7,
     "Breadth-First Search": 6,
+    "Linked List": 5,
     "Bit Manipulation": 5,
     "Recursion": 5,
     "Number Theory": 5,
-    "Linked List": 4,
     "Simulation": 4,
     "Greedy": 4,
     "Divide and Conquer": 3,
@@ -49,8 +49,24 @@
     "Hash Function": 1,
     "Database": 1
   },
-  "last_updated": "2026-07-23 11:33:57 UTC",
+  "last_updated": "2026-07-23 11:38:45 UTC",
   "recent_solved": [
+    {
+      "problem_id": "160",
+      "problem_title": "Intersection of Two Linked Lists",
+      "difficulty": "Easy",
+      "language": "java",
+      "solved_at": "2026-07-23",
+      "file_path": "leetcode/Easy/Hash Tables/0160_Intersection_Of_Two_Linked_Lists/solution.java"
+    },
+    {
+      "problem_id": "145",
+      "problem_title": "Binary Tree Postorder Traversal",
+      "difficulty": "Easy",
+      "language": "java",
+      "solved_at": "2026-07-23",
+      "file_path": "leetcode/Easy/Stack/0145_Binary_Tree_Postorder_Traversal/solution.java"
+    },
     {
       "problem_id": "144",
       "problem_title": "Binary Tree Preorder Traversal",
@@ -114,22 +130,6 @@
       "language": "java",
       "solved_at": "2026-07-22",
       "file_path": "leetcode/Easy/Trees/0101_Symmetric_Tree/solution.java"
-    },
-    {
-      "problem_id": "100",
-      "problem_title": "Same Tree",
-      "difficulty": "Easy",
-      "language": "java",
-      "solved_at": "2026-07-22",
-      "file_path": "leetcode/Easy/Trees/0100_Same_Tree/solution.java"
-    },
-    {
-      "problem_id": "94",
-      "problem_title": "Binary Tree Inorder Traversal",
-      "difficulty": "Easy",
-      "language": "java",
-      "solved_at": "2026-07-22",
-      "file_path": "leetcode/Easy/Stack/0094_Binary_Tree_Inorder_Traversal/solution.java"
     }
   ]
 }
