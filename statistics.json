@@ -1,14 +1,14 @@
 {
-  "total_solved": 80,
+  "total_solved": 81,
   "difficulty_breakdown": {
     "Easy": 21,
-    "Medium": 34,
+    "Medium": 35,
     "Hard": 25
   },
   "topic_distribution": {
-    "Array": 36,
+    "Array": 37,
     "String": 26,
-    "Math": 16,
+    "Math": 17,
     "Dynamic Programming": 15,
     "Two Pointers": 11,
     "Hash Table": 11,
@@ -23,10 +23,10 @@
     "Breadth-First Search": 6,
     "Recursion": 5,
     "Number Theory": 5,
+    "Bit Manipulation": 4,
     "Simulation": 4,
     "Greedy": 4,
     "Divide and Conquer": 3,
-    "Bit Manipulation": 3,
     "Linked List": 3,
     "Monotonic Stack": 3,
     "Prefix Sum": 3,
@@ -49,8 +49,16 @@
     "Hash Function": 1,
     "Database": 1
   },
-  "last_updated": "2026-07-22 04:36:26 UTC",
+  "last_updated": "2026-07-23 11:29:10 UTC",
   "recent_solved": [
+    {
+      "problem_id": "3824",
+      "problem_title": "Number of Unique XOR Triplets I",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-23",
+      "file_path": "leetcode/Medium/Arrays/3824_Number_Of_Unique_Xor_Triplets_I/solution.java"
+    },
     {
       "problem_id": "108",
       "problem_title": "Convert Sorted Array to Binary Search Tree",
@@ -122,14 +130,6 @@
       "language": "java",
       "solved_at": "2026-07-20",
       "file_path": "leetcode/Easy/Arrays/0035_Search_Insert_Position/solution.java"
-    },
-    {
-      "problem_id": "28",
-      "problem_title": "Find the Index of the First Occurrence in a String",
-      "difficulty": "Easy",
-      "language": "java",
-      "solved_at": "2026-07-20",
-      "file_path": "leetcode/Easy/Two_Pointers/0028_Find_The_Index_Of_The_First_Occurrence_In_A_String/solution.java"
     }
   ]
 }
