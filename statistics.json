@@ -1,14 +1,14 @@
 {
-  "total_solved": 87,
+  "total_solved": 88,
   "difficulty_breakdown": {
     "Easy": 27,
-    "Medium": 35,
+    "Medium": 36,
     "Hard": 25
   },
   "topic_distribution": {
-    "Array": 38,
+    "Array": 39,
     "String": 27,
-    "Math": 17,
+    "Math": 18,
     "Dynamic Programming": 15,
     "Two Pointers": 14,
     "Hash Table": 13,
@@ -20,20 +20,20 @@
     "Matrix": 8,
     "Binary Search": 7,
     "Backtracking": 7,
+    "Bit Manipulation": 6,
     "Breadth-First Search": 6,
     "Linked List": 5,
-    "Bit Manipulation": 5,
     "Recursion": 5,
     "Number Theory": 5,
     "Simulation": 4,
     "Greedy": 4,
+    "Enumeration": 3,
     "Divide and Conquer": 3,
     "Monotonic Stack": 3,
     "Prefix Sum": 3,
     "Graph Theory": 3,
     "Binary Search Tree": 2,
     "Segment Tree": 2,
-    "Enumeration": 2,
     "String Matching": 2,
     "Trie": 2,
     "Combinatorics": 2,
@@ -49,8 +49,16 @@
     "Hash Function": 1,
     "Database": 1
   },
-  "last_updated": "2026-07-23 11:38:45 UTC",
+  "last_updated": "2026-07-24 17:27:16 UTC",
   "recent_solved": [
+    {
+      "problem_id": "3820",
+      "problem_title": "Number of Unique XOR Triplets II",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-24",
+      "file_path": "leetcode/Medium/Arrays/3820_Number_Of_Unique_Xor_Triplets_Ii/solution.java"
+    },
     {
       "problem_id": "160",
       "problem_title": "Intersection of Two Linked Lists",
@@ -122,14 +130,6 @@
       "language": "java",
       "solved_at": "2026-07-22",
       "file_path": "leetcode/Easy/Trees/0104_Maximum_Depth_Of_Binary_Tree/solution.java"
-    },
-    {
-      "problem_id": "101",
-      "problem_title": "Symmetric Tree",
-      "difficulty": "Easy",
-      "language": "java",
-      "solved_at": "2026-07-22",
-      "file_path": "leetcode/Easy/Trees/0101_Symmetric_Tree/solution.java"
     }
   ]
 }
