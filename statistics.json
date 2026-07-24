@@ -1,12 +1,12 @@
 {
-  "total_solved": 88,
+  "total_solved": 89,
   "difficulty_breakdown": {
     "Easy": 27,
-    "Medium": 36,
+    "Medium": 37,
     "Hard": 25
   },
   "topic_distribution": {
-    "Array": 39,
+    "Array": 40,
     "String": 27,
     "Math": 18,
     "Dynamic Programming": 15,
@@ -17,8 +17,8 @@
     "Binary Tree": 10,
     "Sorting": 10,
     "Stack": 9,
+    "Binary Search": 8,
     "Matrix": 8,
-    "Binary Search": 7,
     "Backtracking": 7,
     "Bit Manipulation": 6,
     "Breadth-First Search": 6,
@@ -49,8 +49,16 @@
     "Hash Function": 1,
     "Database": 1
   },
-  "last_updated": "2026-07-24 17:27:16 UTC",
+  "last_updated": "2026-07-24 17:33:32 UTC",
   "recent_solved": [
+    {
+      "problem_id": "81",
+      "problem_title": "Search in Rotated Sorted Array II",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-24",
+      "file_path": "leetcode/Medium/Arrays/0081_Search_In_Rotated_Sorted_Array_Ii/solution.java"
+    },
     {
       "problem_id": "3820",
       "problem_title": "Number of Unique XOR Triplets II",
@@ -122,14 +130,6 @@
       "language": "java",
       "solved_at": "2026-07-22",
       "file_path": "leetcode/Easy/Arrays/0108_Convert_Sorted_Array_To_Binary_Search_Tree/solution.java"
-    },
-    {
-      "problem_id": "104",
-      "problem_title": "Maximum Depth of Binary Tree",
-      "difficulty": "Easy",
-      "language": "java",
-      "solved_at": "2026-07-22",
-      "file_path": "leetcode/Easy/Trees/0104_Maximum_Depth_Of_Binary_Tree/solution.java"
     }
   ]
 }
