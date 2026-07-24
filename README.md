@@ -6,17 +6,17 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | Metric | Count |
 | :--- | :--- |
-| **Total Solved** | **87** |
+| **Total Solved** | **88** |
 | 🟢 Easy | 27 |
-| 🟡 Medium | 35 |
+| 🟡 Medium | 36 |
 | 🔴 Hard | 25 |
 
 
 ## Solved by Topic
 
-- **Array**: 38 problems
+- **Array**: 39 problems
 - **String**: 27 problems
-- **Math**: 17 problems
+- **Math**: 18 problems
 - **Dynamic Programming**: 15 problems
 - **Two Pointers**: 14 problems
 - **Hash Table**: 13 problems
@@ -28,20 +28,20 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 - **Matrix**: 8 problems
 - **Binary Search**: 7 problems
 - **Backtracking**: 7 problems
+- **Bit Manipulation**: 6 problems
 - **Breadth-First Search**: 6 problems
 - **Linked List**: 5 problems
-- **Bit Manipulation**: 5 problems
 - **Recursion**: 5 problems
 - **Number Theory**: 5 problems
 - **Simulation**: 4 problems
 - **Greedy**: 4 problems
+- **Enumeration**: 3 problems
 - **Divide and Conquer**: 3 problems
 - **Monotonic Stack**: 3 problems
 - **Prefix Sum**: 3 problems
 - **Graph Theory**: 3 problems
 - **Binary Search Tree**: 2 problems
 - **Segment Tree**: 2 problems
-- **Enumeration**: 2 problems
 - **String Matching**: 2 problems
 - **Trie**: 2 problems
 - **Combinatorics**: 2 problems
@@ -62,6 +62,7 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 
 | # | Problem | Difficulty | Language | Solved Date | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 3820 | Number of Unique XOR Triplets II | Medium | Java | 2026-07-24 | [Solution](./leetcode/Medium/Arrays/3820_Number_Of_Unique_Xor_Triplets_Ii/solution.java) |
 | 160 | Intersection of Two Linked Lists | Easy | Java | 2026-07-23 | [Solution](./leetcode/Easy/Hash Tables/0160_Intersection_Of_Two_Linked_Lists/solution.java) |
 | 145 | Binary Tree Postorder Traversal | Easy | Java | 2026-07-23 | [Solution](./leetcode/Easy/Stack/0145_Binary_Tree_Postorder_Traversal/solution.java) |
 | 144 | Binary Tree Preorder Traversal | Easy | Java | 2026-07-23 | [Solution](./leetcode/Easy/Stack/0144_Binary_Tree_Preorder_Traversal/solution.java) |
@@ -71,7 +72,6 @@ Welcome to my LeetCode problem-solving portfolio! This repository is automatical
 | 3824 | Number of Unique XOR Triplets I | Medium | Java | 2026-07-23 | [Solution](./leetcode/Medium/Arrays/3824_Number_Of_Unique_Xor_Triplets_I/solution.java) |
 | 108 | Convert Sorted Array to Binary Search Tree | Easy | Java | 2026-07-22 | [Solution](./leetcode/Easy/Arrays/0108_Convert_Sorted_Array_To_Binary_Search_Tree/solution.java) |
 | 104 | Maximum Depth of Binary Tree | Easy | Java | 2026-07-22 | [Solution](./leetcode/Easy/Trees/0104_Maximum_Depth_Of_Binary_Tree/solution.java) |
-| 101 | Symmetric Tree | Easy | Java | 2026-07-22 | [Solution](./leetcode/Easy/Trees/0101_Symmetric_Tree/solution.java) |
 
 ---
-*Last synchronization run: 2026-07-23 11:38:45 UTC*
+*Last synchronization run: 2026-07-24 17:27:16 UTC*
