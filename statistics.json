@@ -1,39 +1,42 @@
 {
-  "total_solved": 94,
+  "total_solved": 100,
   "difficulty_breakdown": {
-    "Easy": 30,
-    "Medium": 38,
+    "Easy": 32,
+    "Medium": 42,
     "Hard": 26
   },
   "topic_distribution": {
-    "Array": 42,
-    "String": 29,
-    "Math": 21,
-    "Dynamic Programming": 15,
-    "Hash Table": 14,
-    "Sorting": 14,
+    "Array": 45,
+    "String": 31,
+    "Math": 24,
+    "Dynamic Programming": 17,
+    "Hash Table": 16,
+    "Sorting": 16,
     "Two Pointers": 14,
+    "Depth-First Search": 11,
     "Tree": 10,
-    "Depth-First Search": 10,
     "Binary Tree": 10,
     "Stack": 9,
     "Binary Search": 8,
     "Matrix": 8,
+    "Breadth-First Search": 7,
     "Backtracking": 7,
+    "Recursion": 6,
+    "Greedy": 6,
     "Bit Manipulation": 6,
-    "Breadth-First Search": 6,
     "Linked List": 5,
-    "Recursion": 5,
     "Number Theory": 5,
+    "Graph Theory": 4,
     "Simulation": 4,
-    "Greedy": 4,
+    "Counting": 3,
     "Combinatorics": 3,
     "Enumeration": 3,
     "Divide and Conquer": 3,
     "Monotonic Stack": 3,
     "Prefix Sum": 3,
-    "Graph Theory": 3,
-    "Counting": 2,
+    "Minimax": 2,
+    "Game Theory": 2,
+    "Zero-Sum Game": 2,
     "Heap (Priority Queue)": 2,
     "Binary Search Tree": 2,
     "Segment Tree": 2,
@@ -50,8 +53,56 @@
     "Hash Function": 1,
     "Database": 1
   },
-  "last_updated": "2026-07-29 16:03:41 UTC",
+  "last_updated": "2026-08-05 11:33:12 UTC",
   "recent_solved": [
+    {
+      "problem_id": "3561",
+      "problem_title": "Remove Methods From Project",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-08-05",
+      "file_path": "leetcode/Medium/Depth-First_Search/3561_Remove_Methods_From_Project/solution.java"
+    },
+    {
+      "problem_id": "4107",
+      "problem_title": "Find Missing Elements",
+      "difficulty": "Easy",
+      "language": "java",
+      "solved_at": "2026-08-04",
+      "file_path": "leetcode/Easy/Arrays/4107_Find_Missing_Elements/solution.java"
+    },
+    {
+      "problem_id": "909",
+      "problem_title": "Stone Game",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-08-02",
+      "file_path": "leetcode/Medium/Arrays/0909_Stone_Game/solution.java"
+    },
+    {
+      "problem_id": "486",
+      "problem_title": "Predict the Winner",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-08-01",
+      "file_path": "leetcode/Medium/Arrays/0486_Predict_The_Winner/solution.java"
+    },
+    {
+      "problem_id": "3276",
+      "problem_title": "Minimum Number of Pushes to Type Word II",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-07-31",
+      "file_path": "leetcode/Medium/Hash Tables/3276_Minimum_Number_Of_Pushes_To_Type_Word_Ii/solution.java"
+    },
+    {
+      "problem_id": "3275",
+      "problem_title": "Minimum Number of Pushes to Type Word I",
+      "difficulty": "Easy",
+      "language": "java",
+      "solved_at": "2026-07-30",
+      "file_path": "leetcode/Easy/Math/3275_Minimum_Number_Of_Pushes_To_Type_Word_I/solution.java"
+    },
     {
       "problem_id": "3813",
       "problem_title": "Smallest Palindromic Rearrangement II",
@@ -83,54 +134,6 @@
       "language": "java",
       "solved_at": "2026-07-26",
       "file_path": "leetcode/Easy/Arrays/0628_Maximum_Product_Of_Three_Numbers/solution.java"
-    },
-    {
-      "problem_id": "3859",
-      "problem_title": "Maximum Product of Two Digits",
-      "difficulty": "Easy",
-      "language": "java",
-      "solved_at": "2026-07-25",
-      "file_path": "leetcode/Easy/Math/3859_Maximum_Product_Of_Two_Digits/solution.java"
-    },
-    {
-      "problem_id": "81",
-      "problem_title": "Search in Rotated Sorted Array II",
-      "difficulty": "Medium",
-      "language": "java",
-      "solved_at": "2026-07-24",
-      "file_path": "leetcode/Medium/Arrays/0081_Search_In_Rotated_Sorted_Array_Ii/solution.java"
-    },
-    {
-      "problem_id": "3820",
-      "problem_title": "Number of Unique XOR Triplets II",
-      "difficulty": "Medium",
-      "language": "java",
-      "solved_at": "2026-07-24",
-      "file_path": "leetcode/Medium/Arrays/3820_Number_Of_Unique_Xor_Triplets_Ii/solution.java"
-    },
-    {
-      "problem_id": "160",
-      "problem_title": "Intersection of Two Linked Lists",
-      "difficulty": "Easy",
-      "language": "java",
-      "solved_at": "2026-07-23",
-      "file_path": "leetcode/Easy/Hash Tables/0160_Intersection_Of_Two_Linked_Lists/solution.java"
-    },
-    {
-      "problem_id": "145",
-      "problem_title": "Binary Tree Postorder Traversal",
-      "difficulty": "Easy",
-      "language": "java",
-      "solved_at": "2026-07-23",
-      "file_path": "leetcode/Easy/Stack/0145_Binary_Tree_Postorder_Traversal/solution.java"
-    },
-    {
-      "problem_id": "144",
-      "problem_title": "Binary Tree Preorder Traversal",
-      "difficulty": "Easy",
-      "language": "java",
-      "solved_at": "2026-07-23",
-      "file_path": "leetcode/Easy/Stack/0144_Binary_Tree_Preorder_Traversal/solution.java"
     }
   ]
 }
