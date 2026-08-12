@@ -1,50 +1,52 @@
 {
-  "total_solved": 100,
+  "total_solved": 106,
   "difficulty_breakdown": {
-    "Easy": 32,
-    "Medium": 42,
-    "Hard": 26
+    "Easy": 34,
+    "Medium": 45,
+    "Hard": 27
   },
   "topic_distribution": {
-    "Array": 45,
-    "String": 31,
-    "Math": 24,
-    "Dynamic Programming": 17,
-    "Hash Table": 16,
-    "Sorting": 16,
-    "Two Pointers": 14,
+    "Array": 48,
+    "String": 32,
+    "Math": 27,
+    "Dynamic Programming": 20,
+    "Hash Table": 18,
+    "Sorting": 17,
+    "Two Pointers": 15,
     "Depth-First Search": 11,
     "Tree": 10,
     "Binary Tree": 10,
     "Stack": 9,
     "Binary Search": 8,
     "Matrix": 8,
+    "Greedy": 7,
     "Breadth-First Search": 7,
     "Backtracking": 7,
     "Recursion": 6,
-    "Greedy": 6,
     "Bit Manipulation": 6,
     "Linked List": 5,
     "Number Theory": 5,
+    "Minimax": 4,
+    "Game Theory": 4,
+    "Zero-Sum Game": 4,
+    "Prefix Sum": 4,
+    "Enumeration": 4,
     "Graph Theory": 4,
     "Simulation": 4,
+    "Sliding Window": 3,
     "Counting": 3,
     "Combinatorics": 3,
-    "Enumeration": 3,
     "Divide and Conquer": 3,
     "Monotonic Stack": 3,
-    "Prefix Sum": 3,
-    "Minimax": 2,
-    "Game Theory": 2,
-    "Zero-Sum Game": 2,
     "Heap (Priority Queue)": 2,
     "Binary Search Tree": 2,
     "Segment Tree": 2,
     "String Matching": 2,
     "Trie": 2,
-    "Sliding Window": 2,
     "Ordered Set": 2,
     "Union-Find": 2,
+    "Nim Game": 1,
+    "Sprague\u2013Grundy Theorem": 1,
     "Counting Sort": 1,
     "Bucket Sort": 1,
     "Binary Indexed Tree": 1,
@@ -53,8 +55,56 @@
     "Hash Function": 1,
     "Database": 1
   },
-  "last_updated": "2026-08-05 11:33:12 UTC",
+  "last_updated": "2026-08-12 05:12:47 UTC",
   "recent_solved": [
+    {
+      "problem_id": "3225",
+      "problem_title": "Length of Longest Subarray With at Most K Frequency",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-08-12",
+      "file_path": "leetcode/Medium/Arrays/3225_Length_Of_Longest_Subarray_With_At_Most_K_Frequency/solution.java"
+    },
+    {
+      "problem_id": "3236",
+      "problem_title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+      "difficulty": "Easy",
+      "language": "java",
+      "solved_at": "2026-08-11",
+      "file_path": "leetcode/Easy/Arrays/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum/solution.java"
+    },
+    {
+      "problem_id": "1617",
+      "problem_title": "Stone Game IV",
+      "difficulty": "Hard",
+      "language": "java",
+      "solved_at": "2026-08-10",
+      "file_path": "leetcode/Hard/Math/1617_Stone_Game_Iv/solution.java"
+    },
+    {
+      "problem_id": "1240",
+      "problem_title": "Stone Game II",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-08-09",
+      "file_path": "leetcode/Medium/Arrays/1240_Stone_Game_Ii/solution.java"
+    },
+    {
+      "problem_id": "3584",
+      "problem_title": "Find the Lexicographically Smallest Valid Sequence",
+      "difficulty": "Medium",
+      "language": "java",
+      "solved_at": "2026-08-08",
+      "file_path": "leetcode/Medium/Two_Pointers/3584_Find_The_Lexicographically_Smallest_Valid_Sequence/solution.java"
+    },
+    {
+      "problem_id": "3626",
+      "problem_title": "Smallest Divisible Digit Product I",
+      "difficulty": "Easy",
+      "language": "java",
+      "solved_at": "2026-08-06",
+      "file_path": "leetcode/Easy/Math/3626_Smallest_Divisible_Digit_Product_I/solution.java"
+    },
     {
       "problem_id": "3561",
       "problem_title": "Remove Methods From Project",
@@ -86,54 +136,6 @@
       "language": "java",
       "solved_at": "2026-08-01",
       "file_path": "leetcode/Medium/Arrays/0486_Predict_The_Winner/solution.java"
-    },
-    {
-      "problem_id": "3276",
-      "problem_title": "Minimum Number of Pushes to Type Word II",
-      "difficulty": "Medium",
-      "language": "java",
-      "solved_at": "2026-07-31",
-      "file_path": "leetcode/Medium/Hash Tables/3276_Minimum_Number_Of_Pushes_To_Type_Word_Ii/solution.java"
-    },
-    {
-      "problem_id": "3275",
-      "problem_title": "Minimum Number of Pushes to Type Word I",
-      "difficulty": "Easy",
-      "language": "java",
-      "solved_at": "2026-07-30",
-      "file_path": "leetcode/Easy/Math/3275_Minimum_Number_Of_Pushes_To_Type_Word_I/solution.java"
-    },
-    {
-      "problem_id": "3813",
-      "problem_title": "Smallest Palindromic Rearrangement II",
-      "difficulty": "Hard",
-      "language": "java",
-      "solved_at": "2026-07-29",
-      "file_path": "leetcode/Hard/Hash Tables/3813_Smallest_Palindromic_Rearrangement_Ii/solution.java"
-    },
-    {
-      "problem_id": "3812",
-      "problem_title": "Smallest Palindromic Rearrangement I",
-      "difficulty": "Medium",
-      "language": "java",
-      "solved_at": "2026-07-28",
-      "file_path": "leetcode/Medium/Strings/3812_Smallest_Palindromic_Rearrangement_I/solution.java"
-    },
-    {
-      "problem_id": "1574",
-      "problem_title": "Maximum Product of Two Elements in an Array",
-      "difficulty": "Easy",
-      "language": "java",
-      "solved_at": "2026-07-27",
-      "file_path": "leetcode/Easy/Arrays/1574_Maximum_Product_Of_Two_Elements_In_An_Array/solution.java"
-    },
-    {
-      "problem_id": "628",
-      "problem_title": "Maximum Product of Three Numbers",
-      "difficulty": "Easy",
-      "language": "java",
-      "solved_at": "2026-07-26",
-      "file_path": "leetcode/Easy/Arrays/0628_Maximum_Product_Of_Three_Numbers/solution.java"
     }
   ]
 }
